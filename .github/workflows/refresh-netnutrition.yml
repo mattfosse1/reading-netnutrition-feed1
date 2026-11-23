@@ -15,6 +15,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: reading-netnutrition-data
+  cancel-in-progress: false
+
 jobs:
   extract:
     runs-on: ubuntu-latest
@@ -37,7 +41,7 @@ jobs:
         run: python -m playwright install chromium
 
       - name: Fetch Reading public menu data
-        run: python reader.py --transport auto --output data
+        run: python reader.py --transport auto --output data --days 7 --max-menus 600
 
       - name: Commit successful public feed
         run: |
@@ -46,5 +50,6 @@ jobs:
           git add data/latest.json data/latest.csv data/latest.md
           if ! git diff --cached --quiet; then
             git commit -m "Refresh public NetNutrition menu snapshot"
+            git pull --rebase
             git push
           fi
