@@ -1,6 +1,6 @@
 # University of Reading: public NetNutrition snapshot
 
-Captured: 2026-11-23T21:34:06.942921+00:00
+Captured: 2026-11-23T22:08:04.300738+00:00
 Status: success
 Venues: 17; dishes: 13922
 **Not authoritative allergen information.**
