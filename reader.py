@@ -13,7 +13,8 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from typing import Any
 
@@ -161,7 +162,18 @@ class Browser:
 def panel(value, name):
     return next((p.get("html", "") for p in value.get("panels", []) if p.get("id") == name), "")
 
-def collect(client, include_labels=False, max_labels=150, max_menus=160):
+def in_date_window(date_text: str, days: int) -> bool:
+    if not days or not date_text:
+        return True
+    try:
+        day = datetime.strptime(date_text.strip(), "%A, %B %d, %Y").date()
+    except ValueError:
+        # Unrecognised date format: do not silently drop a menu.
+        return True
+    today = datetime.now(ZoneInfo("Europe/London")).date()
+    return today <= day < today + timedelta(days=days)
+
+def collect(client, include_labels=False, max_labels=150, max_menus=350, days=0):
     locations = units(client.landing())
     if not locations:
         raise RuntimeError("No venues found; Reading may use a different layout than documented CBORD instances")
@@ -176,8 +188,8 @@ def collect(client, include_labels=False, max_labels=150, max_menus=160):
         report["venues"].append(venue)
         try:
             response = client.post("Unit/SelectUnitFromUnitsList", {"unitOid": loc["id"]})
-            choices = menus(panel(response, "menuPanel"))
-            if not choices:
+            choices = [m for m in menus(panel(response, "menuPanel")) if in_date_window(m["dateText"], days)]
+            if not choices and not panel(response, "menuPanel"):
                 choices = [{"id": None, "name": "Current", "dateText": ""}]
             for choice in choices:
                 if menu_count >= max_menus:
@@ -266,7 +278,8 @@ def main():
     parser.add_argument("--output", default="data")
     parser.add_argument("--labels", action="store_true")
     parser.add_argument("--max-labels", type=int, default=150)
-    parser.add_argument("--max-menus", type=int, default=160)
+    parser.add_argument("--max-menus", type=int, default=350)
+    parser.add_argument("--days", type=int, default=3, help="Collect today and next N-1 local dates; 0 for all")
     opts = parser.parse_args()
     errors = []
     for name in (["http", "browser"] if opts.transport == "auto" else [opts.transport]):
@@ -274,7 +287,7 @@ def main():
         try:
             print("Trying", name, BASE, flush=True)
             client = Http() if name == "http" else Browser()
-            report = collect(client, opts.labels, opts.max_labels, opts.max_menus)
+            report = collect(client, opts.labels, opts.max_labels, opts.max_menus, opts.days)
             save(report, Path(opts.output))
             print(json.dumps(report["stats"]))
             return 0
