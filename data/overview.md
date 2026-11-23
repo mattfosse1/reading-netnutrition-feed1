@@ -1,11 +1,12 @@
 # University of Reading: NetNutrition menu overview
 
-**Actual data-derived snapshot.** Captured at 2026-11-23T22:22:01.662175+00:00
+**Actual data-derived snapshot.** Captured at 2026-11-23T22:31:24.308749+00:00
 This is a small companion to the full menu JSON for retrieval-limited readers.
 
 - Locations: **17**
 - Published menus: **217**
 - Menu dish entries: **13922**
+- Unique dishes (distinct displayed names): **1455**
 - Extraction status: **success** (0 errors)
 - Published menu dates: Monday, November 23, 2026 to Sunday, November 29, 2026
 

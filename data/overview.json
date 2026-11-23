@@ -1,11 +1,13 @@
 {
   "source": "https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading",
-  "capturedAtUTC": "2026-11-23T22:22:01.662175+00:00",
+  "capturedAtUTC": "2026-11-23T22:31:24.308749+00:00",
   "status": "success",
   "venuesFound": 17,
   "menus": 217,
   "dishEntries": 13922,
-  "uniqueDishesNotMeasured": true,
+  "uniqueDishes": 1455,
+  "uniqueDishesMethod": "Distinct non-empty displayed dish names, case-insensitive, with whitespace normalised; not confirmed unique recipes.",
+  "uniqueRecipesNotMeasured": true,
   "menuDates": [
     "Monday, November 23, 2026",
     "Tuesday, November 24, 2026",
