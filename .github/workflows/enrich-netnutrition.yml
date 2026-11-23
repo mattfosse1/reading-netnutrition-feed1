@@ -9,7 +9,7 @@ on:
       - tests/test_labels.py
   schedule:
     # Spread small batches across the day rather than sending one large burst.
-    - cron: "39 */2 * * *"
+    - cron: "39 * * * *"
 
 permissions:
   contents: write
