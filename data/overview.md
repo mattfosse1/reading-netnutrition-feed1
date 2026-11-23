@@ -1,12 +1,13 @@
 # University of Reading: NetNutrition menu overview
 
-**Actual data-derived snapshot.** Captured at 2026-11-23T22:08:04.300738+00:00. This is a lightweight companion to the full menu JSON, for readers that cannot retrieve large JSON files.
+**Actual data-derived snapshot.** Captured at 2026-11-23T22:22:01.662175+00:00
+This is a small companion to the full menu JSON for retrieval-limited readers.
 
 - Locations: **17**
 - Published menus: **217**
 - Menu dish entries: **13922**
 - Extraction status: **success** (0 errors)
-- Dates: **23–29 November 2026** (published menus)
+- Published menu dates: Monday, November 23, 2026 to Sunday, November 29, 2026
 
 | Location | Menus | Dish entries |
 | --- | ---: | ---: |
@@ -28,6 +29,9 @@
 | Cafe No.1 at Thames Valley Science Park | 5 | 235 |
 | Reading Hospitality & Events | 21 | 1934 |
 
-**Important:** Counts above are menu appearances, not distinct recipes. This overview does not contain complete individual-dish nutritional information or every recipe. For details, see [the full menu JSON](latest.json) and [nutrition collection progress](labels/status.json). Verify food-safety and allergen information with University Dining.
-
-You may use these counts to validate that you accessed the file. Do **not** claim to have analysed the full 13,922 entries merely by reading this overview.
+**Important:** Counts refer to menu appearances, not distinct recipes.
+This is not a full-dish analysis. Do not claim to have inspected
+individual dishes based only on this overview.
+For full data see [menu JSON](latest.json); for nutrition progress
+see [label coverage](labels/status.json).
+Allergen guidance must be verified against official University Dining records.
