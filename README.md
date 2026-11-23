@@ -2,11 +2,11 @@
 
 An independent **read-only experimental extractor** for the public University of Reading [CBORD NetNutrition menus](https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading). It retrieves menu names, dishes and any displayed dietary/allergen icon tooltips. Optional nutrition-label parsing is included but is **off by default**.
 
-**Status:** Code deployed. Live data extraction from Reading is not yet proven. Until `data/latest.json` exists and contains real dishes, there is no working feed.
+**Status: live extraction verified (23 November 2026).** The three-day snapshot captured all **17/17 public venues**, **103 menus** and **6,519 dish entries** with **zero collection errors**. Two public dish nutrition labels were also retrieved successfully in a separate [diagnostic run](https://github.com/mattfosse1/reading-netnutrition-feed1/actions/runs/45266714744), demonstrating per-serving nutrition data and ingredients. **Not yet proven:** bulk collection of every label and all future dates.
 
 ## Where the menu feed will appear
 
-After the first successful scheduled or manual run:
+Latest successfully retrieved menu snapshots:
 - [Menu table](data/latest.md)
 - [Full JSON](data/latest.json)
 - [CSV](data/latest.csv)
@@ -35,7 +35,7 @@ To request individual public labels as well: `python reader.py --labels --max-la
 ## Important limitations
 
 - Only public pages are requested. No CBORD credentials, privileged APIs or bypasses of access controls.
-- Reading's UK site has **not** yet been live-validated. The endpoint and parsing patterns are based on other CBORD installations and may need adjustment.
+- Reading's UK public menu endpoints **have been live-validated** for menus and two individual nutritional labels. Large-scale label retrieval and completeness over all published dates have not yet been validated.
 - This is not an approved operational allergen source. Always check official Reading/CBORD records before using allergen information for safety decisions.
 - Requests are throttled, with a maximum of 160 menus per collection.
 - Only enable routine collection where compatible with institutional and CBORD policies.
