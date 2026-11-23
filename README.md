@@ -16,7 +16,7 @@ Full labels are downloaded incrementally, not all in one burst. The reader prese
 
 - [Live coverage and progress](data/labels/status.json)
 - Label records appear in `data/labels/venue-<venue-id>.json` as they are retrieved.
-- Batches of up to **350** missing labels run **every two hours** (minute 39 UTC) and can also be started manually using [GitHub Actions](actions/workflows/enrich-netnutrition.yml).
+- Batches of up to **350** missing labels run **every hour** (at minute 39 UTC) and can also be started manually using [GitHub Actions](actions/workflows/enrich-netnutrition.yml).
 - The labels include the full public nutrition text and, when identified in the markup, extracted ingredients and allergens.
 - Cached labels expire after 7 days or when their detail IDs disappear from the menu feed. One day's menu refresh therefore can introduce many new labels.
 
