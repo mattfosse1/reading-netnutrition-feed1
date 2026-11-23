@@ -34,7 +34,7 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Install Chromium for browser fallback
-        run: python -m playwright install --with-deps chromium
+        run: python -m playwright install chromium
 
       - name: Fetch Reading public menu data
         run: python reader.py --transport auto --output data
