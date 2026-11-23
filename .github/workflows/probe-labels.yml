@@ -36,5 +36,7 @@ jobs:
                           if "label" in i or "labelError" in i:
                               print("Dish:", i["name"])
                               print("Label error:", i.get("labelError"))
+                              print("Ingredients field preview:", i.get("label",{}).get("ingredients","")[:250])
+                              print("Contains field preview:", i.get("label",{}).get("contains","")[:250])
                               print("Label text preview:", i.get("label",{}).get("labelText","")[:400])
           PY
