@@ -1,43 +1,44 @@
-# University of Reading NetNutrition feed
+# University of Reading public NetNutrition feed
 
-An independent **read-only experimental extractor** for the public University of Reading [CBORD NetNutrition menus](https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading). It retrieves menu names, dishes and any displayed dietary/allergen icon tooltips. Optional nutrition-label parsing is included but is **off by default**.
+An independent **read-only** collector for the [University of Reading's public NetNutrition menus](https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading). Live collection of all 17 locations and individual nutrition labels has been verified.
 
-**Status: live extraction verified (23 November 2026).** The three-day snapshot captured all **17/17 public venues**, **103 menus** and **6,519 dish entries** with **zero collection errors**. Two public dish nutrition labels were also retrieved successfully in a separate [diagnostic run](https://github.com/mattfosse1/reading-netnutrition-feed1/actions/runs/45266714744), demonstrating per-serving nutrition data and ingredients. **Not yet proven:** bulk collection of every label and all future dates.
+## Menu snapshots
 
-## Where the menu feed will appear
+- [Browse the menu table](data/latest.md)
+- [Download structured menu data (JSON)](data/latest.json)
+- [Download the menu spreadsheet (CSV)](data/latest.csv)
 
-Latest successfully retrieved menu snapshots:
-- [Menu table](data/latest.md)
-- [Full JSON](data/latest.json)
-- [CSV](data/latest.csv)
+The regular feed is configured to cover **today plus the next six calendar days** across all 17 public locations, subject to what CBORD has published. It refreshes at **06:17, 12:17 and 18:17 UTC**. The last captured time and extraction errors are recorded inside the JSON.
 
-The exported fields include venue, meal, displayed date, category, dish name, serving and displayed icons. There are no fabricated sample dishes in the feed. Failed runs do **not** replace an existing successful snapshot.
+## Nutrition and ingredient details
 
-## Automatic updates
+Full labels are downloaded incrementally, not all in one burst. The reader preserves labels by the **exact CBORD detail ID and venue**, never matching records using a dish name alone.
 
-[GitHub Actions → Refresh Reading public dining menus](actions/workflows/refresh-netnutrition.yml) is configured to try **06:17, 12:17 and 18:17 UTC** every day. GitHub's cron jobs can start late.
+- [Live coverage and progress](data/labels/status.json)
+- Label records appear in `data/labels/venue-<venue-id>.json` as they are retrieved.
+- Batches of up to **350** missing labels run **every two hours** (minute 39 UTC) and can also be started manually using [GitHub Actions](actions/workflows/enrich-netnutrition.yml).
+- The labels include the full public nutrition text and, when identified in the markup, extracted ingredients and allergens.
+- Cached labels expire after 7 days or when their detail IDs disappear from the menu feed. One day's menu refresh therefore can introduce many new labels.
 
-For a manual run, select **Actions → Refresh Reading public dining menus → Run workflow**. The first run also checks the parser against simulated CBORD responses. The runner then attempts normal HTTP requests and, if necessary, a full Chromium browser.
+Check `labelCoveragePercent` and `withIngredientsField` in the status file before interpreting completeness. A missing ingredient field does not mean an ingredient-free dish; consult the full label text. No data is invented to fill missing fields.
 
-If collection succeeds but the final commit fails with a GitHub permission error, go to **Settings → Actions → General → Workflow permissions** and allow read/write permissions, if available. The workflow file requests `contents: write`.
+## Reliability and safety
 
-## Local run
+- Public, unauthenticated endpoints only; requests are deliberately rate-limited.
+- Parsing tests run on every code update; failed collection does not overwrite a successful menu snapshot.
+- If CBORD changes its website, check [Actions logs](actions) for the failure.
+- Some location menus might have no explicit date; those are included and identified.
+- The generated feeds are **not an approved source for operational food-safety decisions**. Verify allergens and recipes with University Dining and the official CBORD system.
+- Follow University and CBORD policies before increasing request volumes.
+
+## Local use
 
 ```bash
 python -m pip install -r requirements.txt
 python -m playwright install chromium
 python -m unittest discover -s tests -v
-python reader.py --transport auto --output data
+python reader.py --transport auto --output data --days 7 --max-menus 600
+python labels.py --max-labels 350
 ```
 
-To request individual public labels as well: `python reader.py --labels --max-labels 150`.
-
-## Important limitations
-
-- Only public pages are requested. No CBORD credentials, privileged APIs or bypasses of access controls.
-- Reading's UK public menu endpoints **have been live-validated** for menus and two individual nutritional labels. Large-scale label retrieval and completeness over all published dates have not yet been validated.
-- This is not an approved operational allergen source. Always check official Reading/CBORD records before using allergen information for safety decisions.
-- Requests are throttled, with a maximum of 160 menus per collection.
-- Only enable routine collection where compatible with institutional and CBORD policies.
-
-**Background:** [Publicly documented CBORD NetNutrition extraction patterns](https://github.com/RW290/Duke-Net-Nutrition).
+The nutrition collection's source is [labels.py](labels.py); the menu extraction source is [reader.py](reader.py). To inspect a limited sample, see the [successful two-label diagnostic](https://github.com/mattfosse1/reading-netnutrition-feed1/actions/runs/45266714744).
