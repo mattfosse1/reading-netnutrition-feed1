@@ -1,7 +1,7 @@
 import tempfile
 import unittest
 from pathlib import Path
-from reader import units, menus, dishes, label, collect, save
+from reader import units, menus, dishes, label, collect, save, safe_csv_cell
 
 LANDING = '<a onclick="unitsSelectUnit(12)">Park Eat</a><a onclick="unitsSelectUnit(13)">Wantage Hall</a>'
 MENUS = '<div class="card-title">Monday 23 November</div><a onclick="menuListSelectMenu(40)">Lunch</a>'
@@ -44,6 +44,13 @@ class ReaderTests(unittest.TestCase):
             save(report, Path(d))
             for name in ["latest.json", "latest.csv", "latest.md"]:
                 self.assertTrue((Path(d) / name).is_file())
+    def test_csv_formula_injection_protection(self):
+        for value in ('=HYPERLINK("https://attacker.example")', '+SUM(1,2)',
+                      '-CMD', '@SUM(A1:A2)', '   =2+2', '\t=5', '\r=5'):
+            self.assertTrue(safe_csv_cell(value).startswith("'"))
+        self.assertEqual(safe_csv_cell("BBQ Chicken Pizza"), "BBQ Chicken Pizza")
+        self.assertEqual(safe_csv_cell("Fresh fruit"), "Fresh fruit")
+
     def test_no_blank_success(self):
         class Empty(MockClient):
             def landing(self):
