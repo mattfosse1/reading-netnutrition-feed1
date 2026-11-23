@@ -232,6 +232,15 @@ def collect(client, include_labels=False, max_labels=150, max_menus=350, days=0)
     report["status"] = "partial" if report["errors"] else "success"
     return report
 
+def safe_csv_cell(value):
+    """Treat data from NetNutrition as text, not spreadsheet formulas."""
+    if not isinstance(value, str) or not value:
+        return value
+    stripped = value.lstrip(" \t\r\n\ufeff\x00")
+    if value[0] in ("\t", "\r", "\n", "\ufeff") or stripped.startswith(("=", "+", "-", "@")):
+        return "'" + value
+    return value
+
 def save(report, folder: Path):
     folder.mkdir(parents=True, exist_ok=True)
     (folder / "latest.json").write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -254,7 +263,7 @@ def save(report, folder: Path):
     with (folder / "latest.csv").open("w", encoding="utf-8-sig", newline="") as stream:
         writer = csv.DictWriter(stream, fieldnames=headings)
         writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows({key: safe_csv_cell(value) for key, value in row.items()} for row in rows)
     def md(value):
         return str(value or "").replace("|", "\\|").replace("\n", " ").strip()
     lines = ["# University of Reading: public NetNutrition snapshot", "",
