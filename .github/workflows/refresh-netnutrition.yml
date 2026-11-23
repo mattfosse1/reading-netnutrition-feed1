@@ -1,0 +1,50 @@
+name: Refresh Reading public dining menus
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - reader.py
+      - requirements.txt
+      - tests/**
+      - .github/workflows/refresh-netnutrition.yml
+  schedule:
+    # Three daily attempts (UTC); GitHub may delay scheduled starts.
+    - cron: "17 6,12,18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check parser against simulated CBORD responses
+        run: python -m unittest discover -s tests -v
+
+      - name: Install Chromium for browser fallback
+        run: python -m playwright install --with-deps chromium
+
+      - name: Fetch Reading public menu data
+        run: python reader.py --transport auto --output data
+
+      - name: Commit successful public feed
+        run: |
+          git config user.name "Reading menu feed bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/latest.csv data/latest.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh public NetNutrition menu snapshot"
+            git push
+          fi
