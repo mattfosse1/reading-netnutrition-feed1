@@ -1,0 +1,118 @@
+{
+  "menuCapturedAtUTC": "2026-11-23T21:05:31.414660+00:00",
+  "lastCheckedUTC": "2026-11-23T21:21:07.725174+00:00",
+  "totalDishEntries": 6519,
+  "withRecentLabels": 350,
+  "withIngredientsField": 322,
+  "labelCoveragePercent": 5.37,
+  "byVenue": [
+    {
+      "venue": "Square",
+      "venueId": "11",
+      "total": 257,
+      "withLabels": 86
+    },
+    {
+      "venue": "Park Eat Food",
+      "venueId": "1",
+      "total": 820,
+      "withLabels": 264
+    },
+    {
+      "venue": "St Patrick's",
+      "venueId": "16",
+      "total": 667,
+      "withLabels": 0
+    },
+    {
+      "venue": "Wantage",
+      "venueId": "15",
+      "total": 502,
+      "withLabels": 0
+    },
+    {
+      "venue": "Dairy Bar",
+      "venueId": "17",
+      "total": 189,
+      "withLabels": 0
+    },
+    {
+      "venue": "Park House",
+      "venueId": "12",
+      "total": 117,
+      "withLabels": 0
+    },
+    {
+      "venue": "Street Food Markets",
+      "venueId": "13",
+      "total": 8,
+      "withLabels": 0
+    },
+    {
+      "venue": "Greenlands Bar",
+      "venueId": "2",
+      "total": 291,
+      "withLabels": 0
+    },
+    {
+      "venue": "Greenlands Heyworth",
+      "venueId": "3",
+      "total": 486,
+      "withLabels": 0
+    },
+    {
+      "venue": "Greenlands Hospitality and Events",
+      "venueId": "4",
+      "total": 1149,
+      "withLabels": 0
+    },
+    {
+      "venue": "Library Cafe",
+      "venueId": "5",
+      "total": 342,
+      "withLabels": 0
+    },
+    {
+      "venue": "Dol.che Vita",
+      "venueId": "6",
+      "total": 279,
+      "withLabels": 0
+    },
+    {
+      "venue": "HBS Cafe (Whiteknights)",
+      "venueId": "7",
+      "total": 228,
+      "withLabels": 0
+    },
+    {
+      "venue": "Wilderness Kitchen",
+      "venueId": "8",
+      "total": 78,
+      "withLabels": 0
+    },
+    {
+      "venue": "Enterprise",
+      "venueId": "9",
+      "total": 135,
+      "withLabels": 0
+    },
+    {
+      "venue": "Cafe No.1 at Thames Valley Science Park",
+      "venueId": "10",
+      "total": 141,
+      "withLabels": 0
+    },
+    {
+      "venue": "Reading Hospitality & Events",
+      "venueId": "14",
+      "total": 830,
+      "withLabels": 0
+    }
+  ],
+  "lastBatch": {
+    "attempted": 350,
+    "newLabels": 350,
+    "errors": []
+  },
+  "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
+}
