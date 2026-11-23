@@ -1,0 +1,112 @@
+{
+  "source": "https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading",
+  "capturedAtUTC": "2026-11-23T22:08:04.300738+00:00",
+  "status": "success",
+  "venuesFound": 17,
+  "menus": 217,
+  "dishEntries": 13922,
+  "uniqueDishesNotMeasured": true,
+  "menuDates": [
+    "Monday, November 23, 2026",
+    "Tuesday, November 24, 2026",
+    "Wednesday, November 25, 2026",
+    "Thursday, November 26, 2026",
+    "Friday, November 27, 2026",
+    "Saturday, November 28, 2026",
+    "Sunday, November 29, 2026"
+  ],
+  "locations": [
+    {
+      "name": "Square",
+      "menus": 6,
+      "dishEntries": 449
+    },
+    {
+      "name": "Park Eat Food",
+      "menus": 29,
+      "dishEntries": 1908
+    },
+    {
+      "name": "St Patrick's",
+      "menus": 21,
+      "dishEntries": 1559
+    },
+    {
+      "name": "Wantage",
+      "menus": 17,
+      "dishEntries": 905
+    },
+    {
+      "name": "Dairy Bar",
+      "menus": 17,
+      "dishEntries": 371
+    },
+    {
+      "name": "Park House",
+      "menus": 7,
+      "dishEntries": 261
+    },
+    {
+      "name": "Street Food Markets",
+      "menus": 1,
+      "dishEntries": 8
+    },
+    {
+      "name": "Greenlands Bar",
+      "menus": 28,
+      "dishEntries": 679
+    },
+    {
+      "name": "Greenlands Heyworth",
+      "menus": 21,
+      "dishEntries": 1161
+    },
+    {
+      "name": "Greenlands Hospitality and Events",
+      "menus": 14,
+      "dishEntries": 2682
+    },
+    {
+      "name": "Library Cafe",
+      "menus": 5,
+      "dishEntries": 570
+    },
+    {
+      "name": "Dol.che Vita",
+      "menus": 5,
+      "dishEntries": 465
+    },
+    {
+      "name": "HBS Cafe (Whiteknights)",
+      "menus": 5,
+      "dishEntries": 380
+    },
+    {
+      "name": "Wilderness Kitchen",
+      "menus": 10,
+      "dishEntries": 130
+    },
+    {
+      "name": "Enterprise",
+      "menus": 5,
+      "dishEntries": 225
+    },
+    {
+      "name": "Cafe No.1 at Thames Valley Science Park",
+      "menus": 5,
+      "dishEntries": 235
+    },
+    {
+      "name": "Reading Hospitality & Events",
+      "menus": 21,
+      "dishEntries": 1934
+    }
+  ],
+  "extractionErrors": [],
+  "notes": [
+    "Dish entries are appearances on menus, not necessarily unique recipes.",
+    "The reported counts are the published snapshot, not the entirety of the CBORD database.",
+    "Nutrition and ingredient coverage is tracked separately at data/labels/status.json.",
+    "This is not an approved operational allergen guidance source."
+  ]
+}
