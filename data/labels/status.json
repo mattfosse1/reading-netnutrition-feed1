@@ -1,10 +1,10 @@
 {
-  "menuCapturedAtUTC": "2026-11-24T13:39:01.216759+00:00",
-  "lastCheckedUTC": "2026-11-24T18:26:15.940279+00:00",
+  "menuCapturedAtUTC": "2026-11-24T19:23:31.835701+00:00",
+  "lastCheckedUTC": "2026-11-24T19:38:22.609239+00:00",
   "totalDishEntries": 13805,
-  "withRecentLabels": 2800,
-  "withIngredientsField": 2616,
-  "labelCoveragePercent": 20.28,
+  "withRecentLabels": 3150,
+  "withIngredientsField": 2941,
+  "labelCoveragePercent": 22.82,
   "byVenue": [
     {
       "venue": "Square",
@@ -28,19 +28,19 @@
       "venue": "Wantage",
       "venueId": "15",
       "total": 907,
-      "withLabels": 214
+      "withLabels": 332
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 63
+      "withLabels": 126
     },
     {
       "venue": "Park House",
       "venueId": "12",
       "total": 266,
-      "withLabels": 39
+      "withLabels": 78
     },
     {
       "venue": "Street Food Markets",
@@ -52,13 +52,13 @@
       "venue": "Greenlands Bar",
       "venueId": "2",
       "total": 617,
-      "withLabels": 97
+      "withLabels": 194
     },
     {
       "venue": "Greenlands Heyworth",
       "venueId": "3",
       "total": 1100,
-      "withLabels": 158
+      "withLabels": 191
     },
     {
       "venue": "Greenlands Hospitality and Events",
