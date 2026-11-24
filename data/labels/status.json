@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-24T19:23:31.835701+00:00",
-  "lastCheckedUTC": "2026-11-24T20:28:47.409743+00:00",
+  "lastCheckedUTC": "2026-11-24T21:32:14.647997+00:00",
   "totalDishEntries": 13805,
-  "withRecentLabels": 3500,
-  "withIngredientsField": 3281,
-  "labelCoveragePercent": 25.35,
+  "withRecentLabels": 3850,
+  "withIngredientsField": 3615,
+  "labelCoveragePercent": 27.89,
   "byVenue": [
     {
       "venue": "Square",
@@ -64,19 +64,19 @@
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2682,
-      "withLabels": 606
+      "withLabels": 766
     },
     {
       "venue": "Library Cafe",
       "venueId": "5",
       "total": 570,
-      "withLabels": 114
+      "withLabels": 228
     },
     {
       "venue": "Dol.che Vita",
       "venueId": "6",
       "total": 465,
-      "withLabels": 93
+      "withLabels": 169
     },
     {
       "venue": "HBS Cafe (Whiteknights)",
