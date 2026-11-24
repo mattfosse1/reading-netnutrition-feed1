@@ -5,7 +5,7 @@ Menus: 215
 Dish entries: 13805
 Unique dishes: 1461
 Unique dishes means distinct published dish names, ignoring case and repeated whitespace; not necessarily distinct recipes.
-Snapshot UTC: 2026-11-24T13:39:01.216759+00:00
+Snapshot UTC: 2026-11-24T19:23:31.835701+00:00
 Published dates: Tuesday, November 24, 2026 through Monday, November 30, 2026
 Extraction errors: 0
 Counts are from the published NetNutrition menu snapshot, not the entire CBORD database.
