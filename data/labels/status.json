@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-24T19:23:31.835701+00:00",
-  "lastCheckedUTC": "2026-11-24T21:32:14.647997+00:00",
+  "lastCheckedUTC": "2026-11-24T22:32:54.048811+00:00",
   "totalDishEntries": 13805,
-  "withRecentLabels": 3850,
-  "withIngredientsField": 3615,
-  "labelCoveragePercent": 27.89,
+  "withRecentLabels": 4200,
+  "withIngredientsField": 3943,
+  "labelCoveragePercent": 30.42,
   "byVenue": [
     {
       "venue": "Square",
@@ -76,37 +76,37 @@
       "venue": "Dol.che Vita",
       "venueId": "6",
       "total": 465,
-      "withLabels": 169
+      "withLabels": 186
     },
     {
       "venue": "HBS Cafe (Whiteknights)",
       "venueId": "7",
       "total": 380,
-      "withLabels": 76
+      "withLabels": 152
     },
     {
       "venue": "Wilderness Kitchen",
       "venueId": "8",
       "total": 130,
-      "withLabels": 26
+      "withLabels": 52
     },
     {
       "venue": "Enterprise",
       "venueId": "9",
       "total": 225,
-      "withLabels": 45
+      "withLabels": 90
     },
     {
       "venue": "Cafe No.1 at Thames Valley Science Park",
       "venueId": "10",
       "total": 235,
-      "withLabels": 47
+      "withLabels": 94
     },
     {
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
       "total": 1931,
-      "withLabels": 281
+      "withLabels": 420
     }
   ],
   "lastBatch": {
