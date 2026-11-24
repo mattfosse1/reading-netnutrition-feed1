@@ -1,6 +1,6 @@
 {
   "menuCapturedAtUTC": "2026-11-23T22:34:51.477615+00:00",
-  "lastCheckedUTC": "2026-11-23T23:30:02.299839+00:00",
+  "lastCheckedUTC": "2026-11-24T00:22:46.650688+00:00",
   "totalDishEntries": 13922,
   "withRecentLabels": 1400,
   "withIngredientsField": 1309,
@@ -110,9 +110,22 @@
     }
   ],
   "lastBatch": {
-    "attempted": 350,
-    "newLabels": 350,
-    "errors": []
+    "attempted": 0,
+    "newLabels": 0,
+    "errors": [
+      "Greenlands Hospitality and Events / 4918760: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918727: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918764: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918778: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918734: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918735: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918701: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918702: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918754: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918763: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918771: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
+      "Greenlands Hospitality and Events / 4918772: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' "
+    ]
   },
   "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
 }
