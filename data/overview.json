@@ -1,42 +1,42 @@
 {
   "source": "https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading",
-  "capturedAtUTC": "2026-11-23T22:34:51.477615+00:00",
+  "capturedAtUTC": "2026-11-24T07:43:35.420906+00:00",
   "status": "success",
   "venuesFound": 17,
-  "menus": 217,
-  "dishEntries": 13922,
-  "uniqueDishes": 1455,
+  "menus": 215,
+  "dishEntries": 13805,
+  "uniqueDishes": 1461,
   "uniqueDishesMethod": "Distinct non-empty displayed dish names, case-insensitive, with whitespace normalised; not confirmed unique recipes.",
   "uniqueRecipesNotMeasured": true,
   "menuDates": [
-    "Monday, November 23, 2026",
     "Tuesday, November 24, 2026",
     "Wednesday, November 25, 2026",
     "Thursday, November 26, 2026",
     "Friday, November 27, 2026",
     "Saturday, November 28, 2026",
-    "Sunday, November 29, 2026"
+    "Sunday, November 29, 2026",
+    "Monday, November 30, 2026"
   ],
   "locations": [
     {
       "name": "Square",
       "menus": 6,
-      "dishEntries": 449
+      "dishEntries": 447
     },
     {
       "name": "Park Eat Food",
       "menus": 29,
-      "dishEntries": 1908
+      "dishEntries": 1911
     },
     {
       "name": "St Patrick's",
       "menus": 21,
-      "dishEntries": 1559
+      "dishEntries": 1560
     },
     {
       "name": "Wantage",
       "menus": 17,
-      "dishEntries": 905
+      "dishEntries": 907
     },
     {
       "name": "Dairy Bar",
@@ -45,8 +45,8 @@
     },
     {
       "name": "Park House",
-      "menus": 7,
-      "dishEntries": 261
+      "menus": 8,
+      "dishEntries": 266
     },
     {
       "name": "Street Food Markets",
@@ -55,13 +55,13 @@
     },
     {
       "name": "Greenlands Bar",
-      "menus": 28,
-      "dishEntries": 679
+      "menus": 25,
+      "dishEntries": 617
     },
     {
       "name": "Greenlands Heyworth",
       "menus": 21,
-      "dishEntries": 1161
+      "dishEntries": 1100
     },
     {
       "name": "Greenlands Hospitality and Events",
@@ -101,7 +101,7 @@
     {
       "name": "Reading Hospitality & Events",
       "menus": 21,
-      "dishEntries": 1934
+      "dishEntries": 1931
     }
   ],
   "extractionErrors": [],
