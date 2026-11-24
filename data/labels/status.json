@@ -1,46 +1,46 @@
 {
-  "menuCapturedAtUTC": "2026-11-23T22:34:51.477615+00:00",
-  "lastCheckedUTC": "2026-11-24T06:27:51.839649+00:00",
-  "totalDishEntries": 13922,
-  "withRecentLabels": 1400,
-  "withIngredientsField": 1309,
-  "labelCoveragePercent": 10.06,
+  "menuCapturedAtUTC": "2026-11-24T07:43:35.420906+00:00",
+  "lastCheckedUTC": "2026-11-24T08:00:23.925312+00:00",
+  "totalDishEntries": 13805,
+  "withRecentLabels": 350,
+  "withIngredientsField": 322,
+  "labelCoveragePercent": 2.54,
   "byVenue": [
     {
       "venue": "Square",
       "venueId": "11",
-      "total": 449,
+      "total": 447,
       "withLabels": 86
     },
     {
       "venue": "Park Eat Food",
       "venueId": "1",
-      "total": 1908,
-      "withLabels": 273
+      "total": 1911,
+      "withLabels": 264
     },
     {
       "venue": "St Patrick's",
       "venueId": "16",
-      "total": 1559,
-      "withLabels": 221
+      "total": 1560,
+      "withLabels": 0
     },
     {
       "venue": "Wantage",
       "venueId": "15",
-      "total": 905,
-      "withLabels": 170
+      "total": 907,
+      "withLabels": 0
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 63
+      "withLabels": 0
     },
     {
       "venue": "Park House",
       "venueId": "12",
-      "total": 261,
-      "withLabels": 39
+      "total": 266,
+      "withLabels": 0
     },
     {
       "venue": "Street Food Markets",
@@ -51,20 +51,20 @@
     {
       "venue": "Greenlands Bar",
       "venueId": "2",
-      "total": 679,
-      "withLabels": 97
+      "total": 617,
+      "withLabels": 0
     },
     {
       "venue": "Greenlands Heyworth",
       "venueId": "3",
-      "total": 1161,
-      "withLabels": 168
+      "total": 1100,
+      "withLabels": 0
     },
     {
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2682,
-      "withLabels": 283
+      "withLabels": 0
     },
     {
       "venue": "Library Cafe",
@@ -105,27 +105,14 @@
     {
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
-      "total": 1934,
+      "total": 1931,
       "withLabels": 0
     }
   ],
   "lastBatch": {
-    "attempted": 0,
-    "newLabels": 0,
-    "errors": [
-      "Greenlands Hospitality and Events / 4918760: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918727: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918764: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918778: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918734: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918735: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918701: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918702: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918754: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918763: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918771: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' ",
-      "Greenlands Hospitality and Events / 4918772: RuntimeError: Menu/SelectMenu: not successful panels: {'success': False, 'errorID': 'menuPanel', 'errorHTML': '<div id=\\'errorPanel\\' "
-    ]
+    "attempted": 350,
+    "newLabels": 350,
+    "errors": []
   },
   "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
 }
