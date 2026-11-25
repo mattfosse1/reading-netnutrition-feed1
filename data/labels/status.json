@@ -1,22 +1,22 @@
 {
   "menuCapturedAtUTC": "2026-11-25T13:44:22.284407+00:00",
-  "lastCheckedUTC": "2026-11-25T15:40:48.206615+00:00",
+  "lastCheckedUTC": "2026-11-25T16:43:49.270618+00:00",
   "totalDishEntries": 13696,
-  "withRecentLabels": 6227,
-  "withIngredientsField": 5840,
-  "labelCoveragePercent": 45.47,
+  "withRecentLabels": 6577,
+  "withIngredientsField": 6176,
+  "labelCoveragePercent": 48.02,
   "byVenue": [
     {
       "venue": "Square",
       "venueId": "11",
       "total": 444,
-      "withLabels": 254
+      "withLabels": 277
     },
     {
       "venue": "Park Eat Food",
       "venueId": "1",
       "total": 1912,
-      "withLabels": 820
+      "withLabels": 849
     },
     {
       "venue": "St Patrick's",
@@ -100,13 +100,13 @@
       "venue": "Cafe No.1 at Thames Valley Science Park",
       "venueId": "10",
       "total": 235,
-      "withLabels": 122
+      "withLabels": 141
     },
     {
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
       "total": 1930,
-      "withLabels": 554
+      "withLabels": 833
     }
   ],
   "lastBatch": {
