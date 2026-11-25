@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-24T19:23:31.835701+00:00",
-  "lastCheckedUTC": "2026-11-25T03:38:39.563052+00:00",
+  "lastCheckedUTC": "2026-11-25T04:46:10.908749+00:00",
   "totalDishEntries": 13805,
-  "withRecentLabels": 5600,
-  "withIngredientsField": 5250,
-  "labelCoveragePercent": 40.57,
+  "withRecentLabels": 5950,
+  "withIngredientsField": 5591,
+  "labelCoveragePercent": 43.1,
   "byVenue": [
     {
       "venue": "Square",
@@ -64,13 +64,13 @@
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2682,
-      "withLabels": 910
+      "withLabels": 1149
     },
     {
       "venue": "Library Cafe",
       "venueId": "5",
       "total": 570,
-      "withLabels": 228
+      "withLabels": 339
     },
     {
       "venue": "Dol.che Vita",
