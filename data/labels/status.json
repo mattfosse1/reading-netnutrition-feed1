@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-24T19:23:31.835701+00:00",
-  "lastCheckedUTC": "2026-11-25T00:25:15.898486+00:00",
+  "lastCheckedUTC": "2026-11-25T01:59:06.224630+00:00",
   "totalDishEntries": 13805,
-  "withRecentLabels": 4900,
-  "withIngredientsField": 4589,
-  "labelCoveragePercent": 35.49,
+  "withRecentLabels": 5250,
+  "withIngredientsField": 4917,
+  "labelCoveragePercent": 38.03,
   "byVenue": [
     {
       "venue": "Square",
@@ -22,25 +22,25 @@
       "venue": "St Patrick's",
       "venueId": "16",
       "total": 1560,
-      "withLabels": 651
+      "withLabels": 670
     },
     {
       "venue": "Wantage",
       "venueId": "15",
       "total": 907,
-      "withLabels": 332
+      "withLabels": 500
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 126
+      "withLabels": 189
     },
     {
       "venue": "Park House",
       "venueId": "12",
       "total": 266,
-      "withLabels": 78
+      "withLabels": 117
     },
     {
       "venue": "Street Food Markets",
@@ -52,7 +52,7 @@
       "venue": "Greenlands Bar",
       "venueId": "2",
       "total": 617,
-      "withLabels": 194
+      "withLabels": 255
     },
     {
       "venue": "Greenlands Heyworth",
