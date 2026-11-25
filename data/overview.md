@@ -1,6 +1,6 @@
 # University of Reading: NetNutrition menu overview
 
-**Actual data-derived snapshot.** Captured at 2026-11-25T13:44:22.284407+00:00
+**Actual data-derived snapshot.** Captured at 2026-11-25T19:18:17.470552+00:00
 This is a small companion to the full menu JSON for retrieval-limited readers.
 
 - Locations: **17**
