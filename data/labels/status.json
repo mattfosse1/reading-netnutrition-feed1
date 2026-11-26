@@ -1,22 +1,22 @@
 {
   "menuCapturedAtUTC": "2026-11-25T19:18:17.470552+00:00",
-  "lastCheckedUTC": "2026-11-26T01:58:55.372866+00:00",
+  "lastCheckedUTC": "2026-11-26T03:37:06.873032+00:00",
   "totalDishEntries": 13696,
-  "withRecentLabels": 9377,
-  "withIngredientsField": 8830,
-  "labelCoveragePercent": 68.47,
+  "withRecentLabels": 9727,
+  "withIngredientsField": 9161,
+  "labelCoveragePercent": 71.02,
   "byVenue": [
     {
       "venue": "Square",
       "venueId": "11",
       "total": 444,
-      "withLabels": 277
+      "withLabels": 361
     },
     {
       "venue": "Park Eat Food",
       "venueId": "1",
       "total": 1912,
-      "withLabels": 1362
+      "withLabels": 1438
     },
     {
       "venue": "St Patrick's",
@@ -106,7 +106,7 @@
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
       "total": 1930,
-      "withLabels": 1189
+      "withLabels": 1379
     }
   ],
   "lastBatch": {
