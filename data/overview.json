@@ -1,42 +1,42 @@
 {
   "source": "https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading",
-  "capturedAtUTC": "2026-11-25T19:18:17.470552+00:00",
+  "capturedAtUTC": "2026-11-26T07:46:28.834555+00:00",
   "status": "success",
   "venuesFound": 17,
-  "menus": 213,
-  "dishEntries": 13696,
-  "uniqueDishes": 1441,
+  "menus": 212,
+  "dishEntries": 13642,
+  "uniqueDishes": 1462,
   "uniqueDishesMethod": "Distinct non-empty displayed dish names, case-insensitive, with whitespace normalised; not confirmed unique recipes.",
   "uniqueRecipesNotMeasured": true,
   "menuDates": [
-    "Wednesday, November 25, 2026",
     "Thursday, November 26, 2026",
     "Friday, November 27, 2026",
     "Saturday, November 28, 2026",
     "Sunday, November 29, 2026",
     "Monday, November 30, 2026",
-    "Tuesday, December 1, 2026"
+    "Tuesday, December 1, 2026",
+    "Wednesday, December 2, 2026"
   ],
   "locations": [
     {
       "name": "Square",
       "menus": 6,
-      "dishEntries": 444
+      "dishEntries": 445
     },
     {
       "name": "Park Eat Food",
       "menus": 29,
-      "dishEntries": 1912
+      "dishEntries": 1906
     },
     {
       "name": "St Patrick's",
       "menus": 21,
-      "dishEntries": 1558
+      "dishEntries": 1557
     },
     {
       "name": "Wantage",
       "menus": 17,
-      "dishEntries": 911
+      "dishEntries": 912
     },
     {
       "name": "Dairy Bar",
@@ -45,8 +45,8 @@
     },
     {
       "name": "Park House",
-      "menus": 9,
-      "dishEntries": 271
+      "menus": 10,
+      "dishEntries": 276
     },
     {
       "name": "Street Food Markets",
@@ -55,13 +55,13 @@
     },
     {
       "name": "Greenlands Bar",
-      "menus": 22,
-      "dishEntries": 555
+      "menus": 19,
+      "dishEntries": 493
     },
     {
       "name": "Greenlands Heyworth",
-      "menus": 21,
-      "dishEntries": 1049
+      "menus": 22,
+      "dishEntries": 1060
     },
     {
       "name": "Greenlands Hospitality and Events",
@@ -101,7 +101,7 @@
     {
       "name": "Reading Hospitality & Events",
       "menus": 21,
-      "dishEntries": 1930
+      "dishEntries": 1927
     }
   ],
   "extractionErrors": [],

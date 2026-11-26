@@ -1,26 +1,26 @@
 # University of Reading: NetNutrition menu overview
 
-**Actual data-derived snapshot.** Captured at 2026-11-25T19:18:17.470552+00:00
+**Actual data-derived snapshot.** Captured at 2026-11-26T07:46:28.834555+00:00
 This is a small companion to the full menu JSON for retrieval-limited readers.
 
 - Locations: **17**
-- Published menus: **213**
-- Menu dish entries: **13696**
-- Unique dishes (distinct displayed names): **1441**
+- Published menus: **212**
+- Menu dish entries: **13642**
+- Unique dishes (distinct displayed names): **1462**
 - Extraction status: **success** (0 errors)
-- Published menu dates: Wednesday, November 25, 2026 to Tuesday, December 1, 2026
+- Published menu dates: Thursday, November 26, 2026 to Wednesday, December 2, 2026
 
 | Location | Menus | Dish entries |
 | --- | ---: | ---: |
-| Square | 6 | 444 |
-| Park Eat Food | 29 | 1912 |
-| St Patrick's | 21 | 1558 |
-| Wantage | 17 | 911 |
+| Square | 6 | 445 |
+| Park Eat Food | 29 | 1906 |
+| St Patrick's | 21 | 1557 |
+| Wantage | 17 | 912 |
 | Dairy Bar | 17 | 371 |
-| Park House | 9 | 271 |
+| Park House | 10 | 276 |
 | Street Food Markets | 1 | 8 |
-| Greenlands Bar | 22 | 555 |
-| Greenlands Heyworth | 21 | 1049 |
+| Greenlands Bar | 19 | 493 |
+| Greenlands Heyworth | 22 | 1060 |
 | Greenlands Hospitality and Events | 14 | 2682 |
 | Library Cafe | 5 | 570 |
 | Dol.che Vita | 5 | 465 |
@@ -28,7 +28,7 @@ This is a small companion to the full menu JSON for retrieval-limited readers.
 | Wilderness Kitchen | 10 | 130 |
 | Enterprise | 5 | 225 |
 | Cafe No.1 at Thames Valley Science Park | 5 | 235 |
-| Reading Hospitality & Events | 21 | 1930 |
+| Reading Hospitality & Events | 21 | 1927 |
 
 **Important:** Counts refer to menu appearances, not distinct recipes.
 This is not a full-dish analysis. Do not claim to have inspected
