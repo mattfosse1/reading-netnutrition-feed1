@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-25T19:18:17.470552+00:00",
-  "lastCheckedUTC": "2026-11-26T04:43:37.346320+00:00",
+  "lastCheckedUTC": "2026-11-26T06:31:25.708446+00:00",
   "totalDishEntries": 13696,
-  "withRecentLabels": 10077,
-  "withIngredientsField": 9476,
-  "labelCoveragePercent": 73.58,
+  "withRecentLabels": 10427,
+  "withIngredientsField": 9800,
+  "labelCoveragePercent": 76.13,
   "byVenue": [
     {
       "venue": "Square",
@@ -22,25 +22,25 @@
       "venue": "St Patrick's",
       "venueId": "16",
       "total": 1558,
-      "withLabels": 1264
+      "withLabels": 1336
     },
     {
       "venue": "Wantage",
       "venueId": "15",
       "total": 911,
-      "withLabels": 568
+      "withLabels": 740
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 245
+      "withLabels": 308
     },
     {
       "venue": "Park House",
       "venueId": "12",
       "total": 271,
-      "withLabels": 183
+      "withLabels": 226
     },
     {
       "venue": "Street Food Markets",
