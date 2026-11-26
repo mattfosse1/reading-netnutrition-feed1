@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-26T19:24:48.248946+00:00",
-  "lastCheckedUTC": "2026-11-26T20:33:52.095986+00:00",
+  "lastCheckedUTC": "2026-11-26T21:29:14.978432+00:00",
   "totalDishEntries": 13645,
-  "withRecentLabels": 12023,
-  "withIngredientsField": 11306,
-  "labelCoveragePercent": 88.11,
+  "withRecentLabels": 12373,
+  "withIngredientsField": 11623,
+  "labelCoveragePercent": 90.68,
   "byVenue": [
     {
       "venue": "Square",
@@ -22,19 +22,19 @@
       "venue": "St Patrick's",
       "venueId": "16",
       "total": 1557,
-      "withLabels": 1436
+      "withLabels": 1557
     },
     {
       "venue": "Wantage",
       "venueId": "15",
       "total": 912,
-      "withLabels": 746
+      "withLabels": 912
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 308
+      "withLabels": 371
     },
     {
       "venue": "Park House",
