@@ -1,46 +1,46 @@
 {
-  "menuCapturedAtUTC": "2026-11-25T19:18:17.470552+00:00",
-  "lastCheckedUTC": "2026-11-26T06:31:25.708446+00:00",
-  "totalDishEntries": 13696,
-  "withRecentLabels": 10427,
-  "withIngredientsField": 9800,
-  "labelCoveragePercent": 76.13,
+  "menuCapturedAtUTC": "2026-11-26T07:46:28.834555+00:00",
+  "lastCheckedUTC": "2026-11-26T08:01:18.643638+00:00",
+  "totalDishEntries": 13642,
+  "withRecentLabels": 8525,
+  "withIngredientsField": 8022,
+  "labelCoveragePercent": 62.49,
   "byVenue": [
     {
       "venue": "Square",
       "venueId": "11",
-      "total": 444,
-      "withLabels": 361
+      "total": 445,
+      "withLabels": 276
     },
     {
       "venue": "Park Eat Food",
       "venueId": "1",
-      "total": 1912,
-      "withLabels": 1638
+      "total": 1906,
+      "withLabels": 1364
     },
     {
       "venue": "St Patrick's",
       "venueId": "16",
-      "total": 1558,
-      "withLabels": 1336
+      "total": 1557,
+      "withLabels": 1114
     },
     {
       "venue": "Wantage",
       "venueId": "15",
-      "total": 911,
-      "withLabels": 740
+      "total": 912,
+      "withLabels": 575
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 308
+      "withLabels": 245
     },
     {
       "venue": "Park House",
       "venueId": "12",
-      "total": 271,
-      "withLabels": 226
+      "total": 276,
+      "withLabels": 188
     },
     {
       "venue": "Street Food Markets",
@@ -51,62 +51,62 @@
     {
       "venue": "Greenlands Bar",
       "venueId": "2",
-      "total": 555,
-      "withLabels": 485
+      "total": 493,
+      "withLabels": 423
     },
     {
       "venue": "Greenlands Heyworth",
       "venueId": "3",
-      "total": 1049,
-      "withLabels": 835
+      "total": 1060,
+      "withLabels": 805
     },
     {
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2682,
-      "withLabels": 1916
+      "withLabels": 1629
     },
     {
       "venue": "Library Cafe",
       "venueId": "5",
       "total": 570,
-      "withLabels": 342
+      "withLabels": 228
     },
     {
       "venue": "Dol.che Vita",
       "venueId": "6",
       "total": 465,
-      "withLabels": 279
+      "withLabels": 186
     },
     {
       "venue": "HBS Cafe (Whiteknights)",
       "venueId": "7",
       "total": 380,
-      "withLabels": 228
+      "withLabels": 152
     },
     {
       "venue": "Wilderness Kitchen",
       "venueId": "8",
       "total": 130,
-      "withLabels": 78
+      "withLabels": 52
     },
     {
       "venue": "Enterprise",
       "venueId": "9",
       "total": 225,
-      "withLabels": 135
+      "withLabels": 90
     },
     {
       "venue": "Cafe No.1 at Thames Valley Science Park",
       "venueId": "10",
       "total": 235,
-      "withLabels": 141
+      "withLabels": 94
     },
     {
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
-      "total": 1930,
-      "withLabels": 1379
+      "total": 1927,
+      "withLabels": 1104
     }
   ],
   "lastBatch": {
