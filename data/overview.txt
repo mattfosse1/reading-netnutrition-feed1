@@ -4,7 +4,7 @@ Menus: 212
 Dish entries: 13642
 Unique dishes: 1462
 Unique dishes definition: distinct displayed dish names, case-insensitive, whitespace normalised; not confirmed unique recipes.
-Captured UTC: 2026-11-26T07:46:28.834555+00:00
+Captured UTC: 2026-11-26T13:43:14.101756+00:00
 Status: success
 Errors: 0
 Menu dates: Thursday, November 26, 2026 to Wednesday, December 2, 2026
