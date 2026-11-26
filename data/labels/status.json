@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-25T19:18:17.470552+00:00",
-  "lastCheckedUTC": "2026-11-26T00:27:57.851021+00:00",
+  "lastCheckedUTC": "2026-11-26T01:58:55.372866+00:00",
   "totalDishEntries": 13696,
-  "withRecentLabels": 9027,
-  "withIngredientsField": 8483,
-  "labelCoveragePercent": 65.91,
+  "withRecentLabels": 9377,
+  "withIngredientsField": 8830,
+  "labelCoveragePercent": 68.47,
   "byVenue": [
     {
       "venue": "Square",
@@ -64,7 +64,7 @@
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2682,
-      "withLabels": 1645
+      "withLabels": 1916
     },
     {
       "venue": "Library Cafe",
@@ -106,7 +106,7 @@
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
       "total": 1930,
-      "withLabels": 1110
+      "withLabels": 1189
     }
   ],
   "lastBatch": {
