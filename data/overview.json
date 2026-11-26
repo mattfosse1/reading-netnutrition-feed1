@@ -1,11 +1,11 @@
 {
   "source": "https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading",
-  "capturedAtUTC": "2026-11-26T13:43:14.101756+00:00",
+  "capturedAtUTC": "2026-11-26T19:24:48.248946+00:00",
   "status": "success",
   "venuesFound": 17,
   "menus": 212,
-  "dishEntries": 13642,
-  "uniqueDishes": 1462,
+  "dishEntries": 13645,
+  "uniqueDishes": 1461,
   "uniqueDishesMethod": "Distinct non-empty displayed dish names, case-insensitive, with whitespace normalised; not confirmed unique recipes.",
   "uniqueRecipesNotMeasured": true,
   "menuDates": [
@@ -101,7 +101,7 @@
     {
       "name": "Reading Hospitality & Events",
       "menus": 21,
-      "dishEntries": 1927
+      "dishEntries": 1930
     }
   ],
   "extractionErrors": [],

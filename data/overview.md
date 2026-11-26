@@ -1,12 +1,12 @@
 # University of Reading: NetNutrition menu overview
 
-**Actual data-derived snapshot.** Captured at 2026-11-26T13:43:14.101756+00:00
+**Actual data-derived snapshot.** Captured at 2026-11-26T19:24:48.248946+00:00
 This is a small companion to the full menu JSON for retrieval-limited readers.
 
 - Locations: **17**
 - Published menus: **212**
-- Menu dish entries: **13642**
-- Unique dishes (distinct displayed names): **1462**
+- Menu dish entries: **13645**
+- Unique dishes (distinct displayed names): **1461**
 - Extraction status: **success** (0 errors)
 - Published menu dates: Thursday, November 26, 2026 to Wednesday, December 2, 2026
 
@@ -28,7 +28,7 @@ This is a small companion to the full menu JSON for retrieval-limited readers.
 | Wilderness Kitchen | 10 | 130 |
 | Enterprise | 5 | 225 |
 | Cafe No.1 at Thames Valley Science Park | 5 | 235 |
-| Reading Hospitality & Events | 21 | 1927 |
+| Reading Hospitality & Events | 21 | 1930 |
 
 **Important:** Counts refer to menu appearances, not distinct recipes.
 This is not a full-dish analysis. Do not claim to have inspected

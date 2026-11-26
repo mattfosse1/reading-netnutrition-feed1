@@ -1,8 +1,8 @@
 # University of Reading: public NetNutrition snapshot
 
-Captured: 2026-11-26T13:43:14.101756+00:00
+Captured: 2026-11-26T19:24:48.248946+00:00
 Status: success
-Venues: 17; dishes: 13642
+Venues: 17; dishes: 13645
 **Not authoritative allergen information.**
 
 | Venue | Date | Meal | Category | Dish | Listed icons |
@@ -67,7 +67,7 @@ Venues: 17; dishes: 13642
 | Square | Thursday, November 26, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Square | Thursday, November 26, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Square | Thursday, November 26, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Square | Thursday, November 26, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Square | Thursday, November 26, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Thursday, November 26, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Thursday, November 26, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Thursday, November 26, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -150,7 +150,7 @@ Venues: 17; dishes: 13642
 | Square | Friday, November 27, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Square | Friday, November 27, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Square | Friday, November 27, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Square | Friday, November 27, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Square | Friday, November 27, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Friday, November 27, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Friday, November 27, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Friday, November 27, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -194,7 +194,7 @@ Venues: 17; dishes: 13642
 | Square | Saturday, November 28, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Square | Saturday, November 28, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Square | Saturday, November 28, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Square | Saturday, November 28, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Square | Saturday, November 28, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Saturday, November 28, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Saturday, November 28, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Saturday, November 28, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -257,7 +257,7 @@ Venues: 17; dishes: 13642
 | Square | Monday, November 30, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Square | Monday, November 30, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Square | Monday, November 30, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Square | Monday, November 30, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Square | Monday, November 30, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Monday, November 30, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Monday, November 30, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Monday, November 30, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -340,7 +340,7 @@ Venues: 17; dishes: 13642
 | Square | Tuesday, December 1, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Square | Tuesday, December 1, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Square | Tuesday, December 1, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Square | Tuesday, December 1, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Square | Tuesday, December 1, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Tuesday, December 1, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Tuesday, December 1, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Tuesday, December 1, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -426,7 +426,7 @@ Venues: 17; dishes: 13642
 | Square | Wednesday, December 2, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Square | Wednesday, December 2, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Square | Wednesday, December 2, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Square | Wednesday, December 2, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Square | Wednesday, December 2, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Wednesday, December 2, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Wednesday, December 2, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Square | Wednesday, December 2, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -532,7 +532,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -603,7 +603,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -693,7 +693,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Thursday, November 26, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -735,7 +735,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Hot Breakfast | Scrambled Eggs | Eggs; Milk; Halal; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Hot Breakfast | Slow Roasted Tomatoes | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Hot Breakfast | Streaky Bacon |  |
-| Park Eat Food | Friday, November 27, 2026 | Breakfast | Hot Breakfast | Congee | Soy |
+| Park Eat Food | Friday, November 27, 2026 | Breakfast | Hot Breakfast | Congee | Sesame seeds; Soy |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Cereal | Chocolate Stars Cereal | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Cereal | Cornflakes Cereal | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Cereal | Fibre Flakes Cereal | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -808,7 +808,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -879,7 +879,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -964,7 +964,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Friday, November 27, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1081,7 +1081,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1105,7 +1105,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Counter 3 | Teriyaki Chicken | Soy |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Counter 3 | Steamed Bun | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Counter 3 | Pickled Mooli Carrot & Spring Onion Slaw | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
-| Park Eat Food | Saturday, November 28, 2026 | Lunch | Counter 3 | Crisp Sesame Cauliflower Bites | Halal; Vegan; Vegetarian |
+| Park Eat Food | Saturday, November 28, 2026 | Lunch | Counter 3 | Crisp Sesame Cauliflower Bites | Sesame seeds; Halal; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Theatre | Fries | Halal; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Theatre | Seeded Burger Bun | Cereals containing gluten; Soy; Wheat; Halal; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Theatre | Beef Burger Pattie |  |
@@ -1154,7 +1154,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1239,7 +1239,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Saturday, November 28, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1356,7 +1356,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1372,7 +1372,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Counter 1 | Catalan Lamb Stew | Barley (gluten containing grain); Cereals containing gluten; Rye; Wheat; Halal |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Counter 1 | Cous Cous | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Theatre | BBQ Chicken Drum Stick | Mustard; Halal |
-| Park Eat Food | Sunday, November 29, 2026 | Lunch | Theatre | Spiced Wedges | Halal; Vegan; Vegetarian |
+| Park Eat Food | Sunday, November 29, 2026 | Lunch | Theatre | Spiced Wedges | Sesame seeds; Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Theatre | Plant Sausage | Soy; Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Theatre | Finger Roll | Cereals containing gluten; Soy; Wheat; Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Deli | Black Olives Sliced | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1419,7 +1419,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1448,7 +1448,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Theatre | BBQ Chicken Drum Stick | Mustard; Halal |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Theatre | Plant Sausage | Soy; Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Theatre | Finger Roll | Cereals containing gluten; Soy; Wheat; Halal; Vegan; Vegetarian |
-| Park Eat Food | Sunday, November 29, 2026 | Dinner | Theatre | Spiced Wedges | Halal; Vegan; Vegetarian |
+| Park Eat Food | Sunday, November 29, 2026 | Dinner | Theatre | Spiced Wedges | Sesame seeds; Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Deli | Black Olives Sliced | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Deli | Boiled Egg | Eggs; Halal; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Deli | Branston Pickle | Barley (gluten containing grain); Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
@@ -1493,7 +1493,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Sunday, November 29, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1621,7 +1621,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1695,7 +1695,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1782,7 +1782,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Monday, November 30, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1896,7 +1896,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -1971,7 +1971,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -2056,7 +2056,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Tuesday, December 1, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -2170,7 +2170,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -2242,7 +2242,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -2324,7 +2324,7 @@ Venues: 17; dishes: 13642
 | Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | Soy Sauce Gluten Alternative | Soy; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Park Eat Food | Wednesday, December 2, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
@@ -2431,7 +2431,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Breakfast | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -2481,7 +2481,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -2515,7 +2515,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Pizza | Pepperoni |  |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Pizza | Pizza : Base : 9" : Baked | Cereals containing gluten; Wheat |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Counter 1 | Pearl Barley, Mushroom & Sage Risotto | Barley (gluten containing grain); Celery; Cereals containing gluten; Milk; Halal; Vegetarian |
-| St Patrick's | Thursday, November 26, 2026 | Dinner | Counter 1 | Grilled Sardines | Halal |
+| St Patrick's | Thursday, November 26, 2026 | Dinner | Counter 1 | Grilled Sardines | Fish; Halal |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Vegetable Bar | Broccoli Florets | Halal; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Vegetable Bar | Charred Corn on the Cob | Halal; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Vegetable Bar | Chinese Leaf & Wakame Stir-fry | Crustaceans; Fish; Molluscs; Sesame seeds; Shellfish; Soy; Halal |
@@ -2557,7 +2557,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Thursday, November 26, 2026 | Dinner | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -2655,7 +2655,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Breakfast | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -2703,7 +2703,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -2776,7 +2776,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Friday, November 27, 2026 | Dinner | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -2877,7 +2877,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Breakfast | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -2925,7 +2925,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3000,7 +3000,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Saturday, November 28, 2026 | Dinner | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3101,7 +3101,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Breakfast | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3149,7 +3149,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3225,7 +3225,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Sunday, November 29, 2026 | Dinner | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3323,7 +3323,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Breakfast | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3372,7 +3372,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3447,7 +3447,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Monday, November 30, 2026 | Dinner | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3545,7 +3545,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Breakfast | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3593,7 +3593,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3669,7 +3669,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Tuesday, December 1, 2026 | Dinner | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3767,7 +3767,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Breakfast | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3816,7 +3816,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Lunch | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -3849,7 +3849,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Pizza | Grated Vegan Mozzarella Cheese | Oat (gluten containing grain); Halal; Vegan |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Pizza | Pepperoni |  |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Pizza | Pizza : Base : 9" : Baked | Cereals containing gluten; Wheat |
-| St Patrick's | Wednesday, December 2, 2026 | Dinner | Counter 1 | Spiced Chicken Wings | Halal |
+| St Patrick's | Wednesday, December 2, 2026 | Dinner | Counter 1 | Spiced Chicken Wings | Sesame seeds; Halal |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Counter 1 | Quinoa 'Porridge' Roasted Tomato, Mint & | Milk; Halal; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Vegetable Bar | Carrots | Halal; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Vegetable Bar | Savoy Cabbage | Halal; Vegan; Vegetarian |
@@ -3890,7 +3890,7 @@ Venues: 17; dishes: 13642
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | Sauce : Sriracha | Halal; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | Sauce : Sweet Chilli : Southdevon |  |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | Sesame Oil | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | sesame seeds | Halal; Low Carbon Footprint; Vegan; Vegetarian |
+| St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | sesame seeds | Sesame seeds; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | Tabasco Sauce | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | Table Salt | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | St Patrick's | Wednesday, December 2, 2026 | Dinner | Condiments | Tomato : Ketchup (W) | Halal; Vegan; Vegetarian |
@@ -7067,7 +7067,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Pancetta Roasted Cod with Lemon Pancake | Cereals containing gluten; Eggs; Fish; Milk; Wheat |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Warm Celeriac Salad & Pickled Blackberry | Celery; Cereals containing gluten; Hazelnut and Hazelnut Products; Mustard; Sulphur Dioxide and Sulphites; Tree Nuts; Wheat; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Chicken Breast on Mushroom Risotto | Milk; Sulphur Dioxide and Sulphites |
-| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Sesame seeds; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Mess | Almonds; Oat (gluten containing grain); Pecan nut; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Earl Grey Panna Cotta & Burnt Honeycombe | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Autumn | Date & Toffee Pudding with Chai Cream | Cereals containing gluten; Eggs; Milk; Wheat; Halal; Vegetarian |
@@ -7090,7 +7090,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Spring | Millionaire Cheesecake | Cereals containing gluten; Milk; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Spring | Spiced Apple & Walnut Tart | Almonds; Cereals containing gluten; Eggs; Milk; Tree Nuts; Walnuts; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Spring | White Chocolate & Rhubarb Tart | Eggs; Milk; Soy; Halal; Vegetarian |
-| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sesame seeds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Summer | Chilled Watercress Vichyssoise with Smoked Trout & Lime Bruschetta | Celery; Cereals containing gluten; Fish; Milk; Wheat; Halal |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Summer | Crab Rillette with Sweetcorn Pannacotta; | Crustaceans; Milk; Molluscs; Shellfish; Halal |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Fine Dining Summer | Smoked Rabbit & Burnt Gem Caesar Salad | Barley (gluten containing grain); Cereals containing gluten; Milk; Mustard; Rye; Wheat |
@@ -7213,7 +7213,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Raw Winter Slaw Side Salad | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Mixed Tomato, Basil & Red Onion Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | House Mixed Leaf Salad | Halal; Vegan; Vegetarian |
-| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Halal; Vegan; Vegetarian |
+| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Sesame seeds; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Chocolate Mousse Cup | Pistachio; Soy; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Fresh Fruit Platter | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 7 | Scandinavian Style Meatballs (Pork) | Eggs |
@@ -7284,7 +7284,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Butterfly BBQ Chicken Breast | Mustard; Halal |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Butterfly Honey & Chilli Chicken Breast | Halal |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Butterfly Madras Chicken Breast | Barley (gluten containing grain); Halal |
-| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Soy; Halal |
+| Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Sesame seeds; Soy; Halal |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Butterfly Thai Green Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Butterfly Thai Red Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Thursday, November 26, 2026 | Hospitality Events | BBQ | Orange, Lemon & Herb Chicken Breast | Halal |
@@ -7450,7 +7450,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Pancetta Roasted Cod with Lemon Pancake | Cereals containing gluten; Eggs; Fish; Milk; Wheat |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Warm Celeriac Salad & Pickled Blackberry | Celery; Cereals containing gluten; Hazelnut and Hazelnut Products; Mustard; Sulphur Dioxide and Sulphites; Tree Nuts; Wheat; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Chicken Breast on Mushroom Risotto | Milk; Sulphur Dioxide and Sulphites |
-| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Sesame seeds; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Mess | Almonds; Oat (gluten containing grain); Pecan nut; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Earl Grey Panna Cotta & Burnt Honeycombe | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Autumn | Date & Toffee Pudding with Chai Cream | Cereals containing gluten; Eggs; Milk; Wheat; Halal; Vegetarian |
@@ -7473,7 +7473,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Spring | Millionaire Cheesecake | Cereals containing gluten; Milk; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Spring | Spiced Apple & Walnut Tart | Almonds; Cereals containing gluten; Eggs; Milk; Tree Nuts; Walnuts; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Spring | White Chocolate & Rhubarb Tart | Eggs; Milk; Soy; Halal; Vegetarian |
-| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sesame seeds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Summer | Chilled Watercress Vichyssoise with Smoked Trout & Lime Bruschetta | Celery; Cereals containing gluten; Fish; Milk; Wheat; Halal |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Summer | Crab Rillette with Sweetcorn Pannacotta; | Crustaceans; Milk; Molluscs; Shellfish; Halal |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Fine Dining Summer | Smoked Rabbit & Burnt Gem Caesar Salad | Barley (gluten containing grain); Cereals containing gluten; Milk; Mustard; Rye; Wheat |
@@ -7596,7 +7596,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Raw Winter Slaw Side Salad | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Mixed Tomato, Basil & Red Onion Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | House Mixed Leaf Salad | Halal; Vegan; Vegetarian |
-| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Halal; Vegan; Vegetarian |
+| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Sesame seeds; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Chocolate Mousse Cup | Pistachio; Soy; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Fresh Fruit Platter | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 7 | Scandinavian Style Meatballs (Pork) | Eggs |
@@ -7667,7 +7667,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Butterfly BBQ Chicken Breast | Mustard; Halal |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Butterfly Honey & Chilli Chicken Breast | Halal |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Butterfly Madras Chicken Breast | Barley (gluten containing grain); Halal |
-| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Soy; Halal |
+| Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Sesame seeds; Soy; Halal |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Butterfly Thai Green Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Butterfly Thai Red Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Friday, November 27, 2026 | Hospitality Events | BBQ | Orange, Lemon & Herb Chicken Breast | Halal |
@@ -7834,7 +7834,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Pancetta Roasted Cod with Lemon Pancake | Cereals containing gluten; Eggs; Fish; Milk; Wheat |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Warm Celeriac Salad & Pickled Blackberry | Celery; Cereals containing gluten; Hazelnut and Hazelnut Products; Mustard; Sulphur Dioxide and Sulphites; Tree Nuts; Wheat; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Chicken Breast on Mushroom Risotto | Milk; Sulphur Dioxide and Sulphites |
-| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Sesame seeds; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Mess | Almonds; Oat (gluten containing grain); Pecan nut; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Earl Grey Panna Cotta & Burnt Honeycombe | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Autumn | Date & Toffee Pudding with Chai Cream | Cereals containing gluten; Eggs; Milk; Wheat; Halal; Vegetarian |
@@ -7857,7 +7857,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Spring | Millionaire Cheesecake | Cereals containing gluten; Milk; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Spring | Spiced Apple & Walnut Tart | Almonds; Cereals containing gluten; Eggs; Milk; Tree Nuts; Walnuts; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Spring | White Chocolate & Rhubarb Tart | Eggs; Milk; Soy; Halal; Vegetarian |
-| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sesame seeds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Summer | Chilled Watercress Vichyssoise with Smoked Trout & Lime Bruschetta | Celery; Cereals containing gluten; Fish; Milk; Wheat; Halal |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Summer | Crab Rillette with Sweetcorn Pannacotta; | Crustaceans; Milk; Molluscs; Shellfish; Halal |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Fine Dining Summer | Smoked Rabbit & Burnt Gem Caesar Salad | Barley (gluten containing grain); Cereals containing gluten; Milk; Mustard; Rye; Wheat |
@@ -7980,7 +7980,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Raw Winter Slaw Side Salad | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Mixed Tomato, Basil & Red Onion Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | House Mixed Leaf Salad | Halal; Vegan; Vegetarian |
-| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Halal; Vegan; Vegetarian |
+| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Sesame seeds; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Chocolate Mousse Cup | Pistachio; Soy; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Fresh Fruit Platter | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 7 | Scandinavian Style Meatballs (Pork) | Eggs |
@@ -8051,7 +8051,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Butterfly BBQ Chicken Breast | Mustard; Halal |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Butterfly Honey & Chilli Chicken Breast | Halal |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Butterfly Madras Chicken Breast | Barley (gluten containing grain); Halal |
-| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Soy; Halal |
+| Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Sesame seeds; Soy; Halal |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Butterfly Thai Green Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Butterfly Thai Red Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Saturday, November 28, 2026 | Hospitality Events | BBQ | Orange, Lemon & Herb Chicken Breast | Halal |
@@ -8217,7 +8217,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Pancetta Roasted Cod with Lemon Pancake | Cereals containing gluten; Eggs; Fish; Milk; Wheat |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Warm Celeriac Salad & Pickled Blackberry | Celery; Cereals containing gluten; Hazelnut and Hazelnut Products; Mustard; Sulphur Dioxide and Sulphites; Tree Nuts; Wheat; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Chicken Breast on Mushroom Risotto | Milk; Sulphur Dioxide and Sulphites |
-| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Sesame seeds; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Mess | Almonds; Oat (gluten containing grain); Pecan nut; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Earl Grey Panna Cotta & Burnt Honeycombe | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Autumn | Date & Toffee Pudding with Chai Cream | Cereals containing gluten; Eggs; Milk; Wheat; Halal; Vegetarian |
@@ -8240,7 +8240,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Spring | Millionaire Cheesecake | Cereals containing gluten; Milk; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Spring | Spiced Apple & Walnut Tart | Almonds; Cereals containing gluten; Eggs; Milk; Tree Nuts; Walnuts; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Spring | White Chocolate & Rhubarb Tart | Eggs; Milk; Soy; Halal; Vegetarian |
-| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sesame seeds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Summer | Chilled Watercress Vichyssoise with Smoked Trout & Lime Bruschetta | Celery; Cereals containing gluten; Fish; Milk; Wheat; Halal |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Summer | Crab Rillette with Sweetcorn Pannacotta; | Crustaceans; Milk; Molluscs; Shellfish; Halal |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Fine Dining Summer | Smoked Rabbit & Burnt Gem Caesar Salad | Barley (gluten containing grain); Cereals containing gluten; Milk; Mustard; Rye; Wheat |
@@ -8363,7 +8363,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Raw Winter Slaw Side Salad | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Mixed Tomato, Basil & Red Onion Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | House Mixed Leaf Salad | Halal; Vegan; Vegetarian |
-| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Halal; Vegan; Vegetarian |
+| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Sesame seeds; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Chocolate Mousse Cup | Pistachio; Soy; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Fresh Fruit Platter | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 7 | Scandinavian Style Meatballs (Pork) | Eggs |
@@ -8434,7 +8434,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Butterfly BBQ Chicken Breast | Mustard; Halal |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Butterfly Honey & Chilli Chicken Breast | Halal |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Butterfly Madras Chicken Breast | Barley (gluten containing grain); Halal |
-| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Soy; Halal |
+| Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Sesame seeds; Soy; Halal |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Butterfly Thai Green Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Butterfly Thai Red Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Sunday, November 29, 2026 | Hospitality Events | BBQ | Orange, Lemon & Herb Chicken Breast | Halal |
@@ -8600,7 +8600,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Pancetta Roasted Cod with Lemon Pancake | Cereals containing gluten; Eggs; Fish; Milk; Wheat |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Warm Celeriac Salad & Pickled Blackberry | Celery; Cereals containing gluten; Hazelnut and Hazelnut Products; Mustard; Sulphur Dioxide and Sulphites; Tree Nuts; Wheat; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Chicken Breast on Mushroom Risotto | Milk; Sulphur Dioxide and Sulphites |
-| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Sesame seeds; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Mess | Almonds; Oat (gluten containing grain); Pecan nut; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Earl Grey Panna Cotta & Burnt Honeycombe | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Autumn | Date & Toffee Pudding with Chai Cream | Cereals containing gluten; Eggs; Milk; Wheat; Halal; Vegetarian |
@@ -8623,7 +8623,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Spring | Millionaire Cheesecake | Cereals containing gluten; Milk; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Spring | Spiced Apple & Walnut Tart | Almonds; Cereals containing gluten; Eggs; Milk; Tree Nuts; Walnuts; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Spring | White Chocolate & Rhubarb Tart | Eggs; Milk; Soy; Halal; Vegetarian |
-| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sesame seeds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Summer | Chilled Watercress Vichyssoise with Smoked Trout & Lime Bruschetta | Celery; Cereals containing gluten; Fish; Milk; Wheat; Halal |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Summer | Crab Rillette with Sweetcorn Pannacotta; | Crustaceans; Milk; Molluscs; Shellfish; Halal |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Fine Dining Summer | Smoked Rabbit & Burnt Gem Caesar Salad | Barley (gluten containing grain); Cereals containing gluten; Milk; Mustard; Rye; Wheat |
@@ -8746,7 +8746,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Raw Winter Slaw Side Salad | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Mixed Tomato, Basil & Red Onion Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | House Mixed Leaf Salad | Halal; Vegan; Vegetarian |
-| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Halal; Vegan; Vegetarian |
+| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Sesame seeds; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Chocolate Mousse Cup | Pistachio; Soy; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Fresh Fruit Platter | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 7 | Scandinavian Style Meatballs (Pork) | Eggs |
@@ -8817,7 +8817,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Butterfly BBQ Chicken Breast | Mustard; Halal |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Butterfly Honey & Chilli Chicken Breast | Halal |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Butterfly Madras Chicken Breast | Barley (gluten containing grain); Halal |
-| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Soy; Halal |
+| Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Sesame seeds; Soy; Halal |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Butterfly Thai Green Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Butterfly Thai Red Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Monday, November 30, 2026 | Hospitality Events | BBQ | Orange, Lemon & Herb Chicken Breast | Halal |
@@ -8983,7 +8983,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Pancetta Roasted Cod with Lemon Pancake | Cereals containing gluten; Eggs; Fish; Milk; Wheat |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Warm Celeriac Salad & Pickled Blackberry | Celery; Cereals containing gluten; Hazelnut and Hazelnut Products; Mustard; Sulphur Dioxide and Sulphites; Tree Nuts; Wheat; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Chicken Breast on Mushroom Risotto | Milk; Sulphur Dioxide and Sulphites |
-| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Sesame seeds; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Mess | Almonds; Oat (gluten containing grain); Pecan nut; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Earl Grey Panna Cotta & Burnt Honeycombe | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Autumn | Date & Toffee Pudding with Chai Cream | Cereals containing gluten; Eggs; Milk; Wheat; Halal; Vegetarian |
@@ -9006,7 +9006,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Spring | Millionaire Cheesecake | Cereals containing gluten; Milk; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Spring | Spiced Apple & Walnut Tart | Almonds; Cereals containing gluten; Eggs; Milk; Tree Nuts; Walnuts; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Spring | White Chocolate & Rhubarb Tart | Eggs; Milk; Soy; Halal; Vegetarian |
-| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sesame seeds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Summer | Chilled Watercress Vichyssoise with Smoked Trout & Lime Bruschetta | Celery; Cereals containing gluten; Fish; Milk; Wheat; Halal |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Summer | Crab Rillette with Sweetcorn Pannacotta; | Crustaceans; Milk; Molluscs; Shellfish; Halal |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Fine Dining Summer | Smoked Rabbit & Burnt Gem Caesar Salad | Barley (gluten containing grain); Cereals containing gluten; Milk; Mustard; Rye; Wheat |
@@ -9129,7 +9129,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Raw Winter Slaw Side Salad | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Mixed Tomato, Basil & Red Onion Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | House Mixed Leaf Salad | Halal; Vegan; Vegetarian |
-| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Halal; Vegan; Vegetarian |
+| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Sesame seeds; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Chocolate Mousse Cup | Pistachio; Soy; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Fresh Fruit Platter | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 7 | Scandinavian Style Meatballs (Pork) | Eggs |
@@ -9200,7 +9200,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Butterfly BBQ Chicken Breast | Mustard; Halal |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Butterfly Honey & Chilli Chicken Breast | Halal |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Butterfly Madras Chicken Breast | Barley (gluten containing grain); Halal |
-| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Soy; Halal |
+| Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Sesame seeds; Soy; Halal |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Butterfly Thai Green Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Butterfly Thai Red Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Tuesday, December 1, 2026 | Hospitality Events | BBQ | Orange, Lemon & Herb Chicken Breast | Halal |
@@ -9366,7 +9366,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Pancetta Roasted Cod with Lemon Pancake | Cereals containing gluten; Eggs; Fish; Milk; Wheat |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Warm Celeriac Salad & Pickled Blackberry | Celery; Cereals containing gluten; Hazelnut and Hazelnut Products; Mustard; Sulphur Dioxide and Sulphites; Tree Nuts; Wheat; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Chicken Breast on Mushroom Risotto | Milk; Sulphur Dioxide and Sulphites |
-| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Squash, Miso & Caramel Tart | Cereals containing gluten; Eggs; Milk; Sesame seeds; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Autumn Mess | Almonds; Oat (gluten containing grain); Pecan nut; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Earl Grey Panna Cotta & Burnt Honeycombe | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Autumn | Date & Toffee Pudding with Chai Cream | Cereals containing gluten; Eggs; Milk; Wheat; Halal; Vegetarian |
@@ -9389,7 +9389,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Spring | Millionaire Cheesecake | Cereals containing gluten; Milk; Soy; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Spring | Spiced Apple & Walnut Tart | Almonds; Cereals containing gluten; Eggs; Milk; Tree Nuts; Walnuts; Wheat; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Spring | White Chocolate & Rhubarb Tart | Eggs; Milk; Soy; Halal; Vegetarian |
-| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
+| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Spring | Maple Crème Brulé & Granola | Cereals containing gluten; Milk; Oat (gluten containing grain); Pecan nut; Sesame seeds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Summer | Chilled Watercress Vichyssoise with Smoked Trout & Lime Bruschetta | Celery; Cereals containing gluten; Fish; Milk; Wheat; Halal |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Summer | Crab Rillette with Sweetcorn Pannacotta; | Crustaceans; Milk; Molluscs; Shellfish; Halal |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Fine Dining Summer | Smoked Rabbit & Burnt Gem Caesar Salad | Barley (gluten containing grain); Cereals containing gluten; Milk; Mustard; Rye; Wheat |
@@ -9512,7 +9512,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Raw Winter Slaw Side Salad | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Mixed Tomato, Basil & Red Onion Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | House Mixed Leaf Salad | Halal; Vegan; Vegetarian |
-| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Halal; Vegan; Vegetarian |
+| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Carrot Ribbon, Ginger, Orange & Sesame | Sesame seeds; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Chocolate Mousse Cup | Pistachio; Soy; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 6 | Fresh Fruit Platter | Halal; Vegan; Vegetarian |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | Hot & Cold Fork Buffet Menu 7 | Scandinavian Style Meatballs (Pork) | Eggs |
@@ -9583,7 +9583,7 @@ Venues: 17; dishes: 13642
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Butterfly BBQ Chicken Breast | Mustard; Halal |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Butterfly Honey & Chilli Chicken Breast | Halal |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Butterfly Madras Chicken Breast | Barley (gluten containing grain); Halal |
-| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Soy; Halal |
+| Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Butterfly Satay Chicken Breast | Peanuts; Sesame seeds; Soy; Halal |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Butterfly Thai Green Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Butterfly Thai Red Chicken Breast | Soy; Halal |
 | Greenlands Hospitality and Events | Wednesday, December 2, 2026 | Hospitality Events | BBQ | Orange, Lemon & Herb Chicken Breast | Halal |
@@ -11147,7 +11147,7 @@ Venues: 17; dishes: 13642
 | Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Soups | Soup of the Day with GA Bread | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Mains | Chicken Bulgogi Bowl | Sesame seeds; Soy; Sulphur Dioxide and Sulphites |
 | Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Mains | Mushroom Bulgogi Bowl | Sesame seeds; Soy; Sulphur Dioxide and Sulphites; Vegan; Vegetarian |
-| Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Soy; Halal; Vegan; Vegetarian |
+| Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Sesame seeds; Soy; Halal; Vegan; Vegetarian |
 | Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Mains | Hot Smoked Salmon Poke Bowl | Fish; Soy; Halal |
 | Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Salad | Caesar Salad | Cereals containing gluten; Eggs; Milk; Mustard; Wheat; Halal; Vegetarian |
 | Wilderness Kitchen | Thursday, November 26, 2026 | Lunch | Salad | Chargrilled Halloumi | Milk; Halal; Vegetarian |
@@ -11173,7 +11173,7 @@ Venues: 17; dishes: 13642
 | Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Soups | Soup of the Day with GA Bread | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Mains | Katsu Chicken Burger | Cereals containing gluten; Eggs; Mustard; Sesame seeds; Soy; Wheat |
 | Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Mains | Plant Burger, Feta Style Cheese & Pesto | Cereals containing gluten; Soy; Wheat; Halal; Vegan; Vegetarian |
-| Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Soy; Halal; Vegan; Vegetarian |
+| Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Sesame seeds; Soy; Halal; Vegan; Vegetarian |
 | Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Mains | Hot Smoked Salmon Poke Bowl | Fish; Soy; Halal |
 | Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Salad | Caesar Salad | Cereals containing gluten; Eggs; Milk; Mustard; Wheat; Halal; Vegetarian |
 | Wilderness Kitchen | Friday, November 27, 2026 | Lunch | Salad | Chargrilled Halloumi | Milk; Halal; Vegetarian |
@@ -11199,7 +11199,7 @@ Venues: 17; dishes: 13642
 | Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Soups | Soup of the Day with GA Bread | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Mains | Pomodoro Sauce, Spaghetti & Garlic Bread | Cereals containing gluten; Pine Nuts; Wheat; Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Mains | Ragu Bolognese Spaghetti & Garlic Bread | Celery; Cereals containing gluten; Milk; Sulphur Dioxide and Sulphites; Wheat |
-| Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Soy; Halal; Vegan; Vegetarian |
+| Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Sesame seeds; Soy; Halal; Vegan; Vegetarian |
 | Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Mains | Hot Smoked Salmon Poke Bowl | Fish; Soy; Halal |
 | Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Salad | Caesar Salad | Cereals containing gluten; Eggs; Milk; Mustard; Wheat; Halal; Vegetarian |
 | Wilderness Kitchen | Monday, November 30, 2026 | Lunch | Salad | Chargrilled Halloumi | Milk; Halal; Vegetarian |
@@ -11225,7 +11225,7 @@ Venues: 17; dishes: 13642
 | Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Soups | Soup of the Day with GA Bread | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Mains | Jacket Potato, Baked Beans,Cheese & Slaw | Mustard; Oat (gluten containing grain); Halal; Vegan; Vegetarian |
 | Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Mains | Jacket Potato, Tuna Mayo, Cheese& Slaw | Fish; Milk; Mustard; Halal; Vegan; Vegetarian |
-| Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Soy; Halal; Vegan; Vegetarian |
+| Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Sesame seeds; Soy; Halal; Vegan; Vegetarian |
 | Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Mains | Hot Smoked Salmon Poke Bowl | Fish; Soy; Halal |
 | Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Salad | Caesar Salad | Cereals containing gluten; Eggs; Milk; Mustard; Wheat; Halal; Vegetarian |
 | Wilderness Kitchen | Tuesday, December 1, 2026 | Lunch | Salad | Chargrilled Halloumi | Milk; Halal; Vegetarian |
@@ -11251,7 +11251,7 @@ Venues: 17; dishes: 13642
 | Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Soups | Soup of the Day with GA Bread | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Mains | Chicken Raisukaree Curry & Rice Meal | Fish; Soy; Halal |
 | Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Mains | Thai Green Vegetable Curry served steame | Soy; Halal; Vegan; Vegetarian |
-| Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Soy; Halal; Vegan; Vegetarian |
+| Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Mains | Crispy Cauliflower Poke Bowl | Sesame seeds; Soy; Halal; Vegan; Vegetarian |
 | Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Mains | Hot Smoked Salmon Poke Bowl | Fish; Soy; Halal |
 | Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Salad | Caesar Salad | Cereals containing gluten; Eggs; Milk; Mustard; Wheat; Halal; Vegetarian |
 | Wilderness Kitchen | Wednesday, December 2, 2026 | Lunch | Salad | Chargrilled Halloumi | Milk; Halal; Vegetarian |
@@ -11729,9 +11729,10 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Pizza | Margherita Pizza GA | Milk; Halal; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Pizza | New Yorker Pizza GA | Milk |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Pizza | BBQ Chicken Pizza GA | Milk; Mustard; Halal |
+| Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Pizza | Plant Feta & Olive Pizza GA | Oat (gluten containing grain); Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Fruit, Spreads and Toppers | Whole Fruits | Halal; Low Carbon Footprint; Vegan; Vegetarian |
-| Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Sweet Treats | Cookie Platter VG | Cereals containing gluten; Soy; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Sweet Treats | Lemon & Poppy Seed Cake | Almonds; Eggs; Tree Nuts; Halal; Vegetarian |
+| Reading Hospitality & Events | Thursday, November 26, 2026 | Lunch | Sweet Treats | Cookie Platter | Cereals containing gluten; Oat (gluten containing grain); Soy; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Hot Fork | Chicken Thigh on Leek & Pea Fricasse | Milk; Halal |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Hot Fork | Steak & Barkham Blue Pie | Barley (gluten containing grain); Celery; Cereals containing gluten; Eggs; Fish; Milk; Sulphur Dioxide and Sulphites; Wheat |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Hot Fork | Garden Cottage Pie | Sulphur Dioxide and Sulphites; Vegan; Vegetarian |
@@ -11952,7 +11953,7 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Lemon, Broccolini & Freekeh Salad | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Mediterranean Veg Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Panzanella Salad | Cereals containing gluten; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sesame seeds; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Classic Potato salad | Mustard; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Fresh Garden Salad | Mustard; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Thursday, November 26, 2026 | Hospitality Events | Working Lunch | Nicoise Salad | Eggs; Mustard; Sulphur Dioxide and Sulphites; Halal; Vegetarian |
@@ -12006,11 +12007,11 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Buffet Item | Jerusalem Artichoke, Feta & Spinach Tart | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Buffet Item | Carrot, Beetroot & Bean Puff Roll | Cereals containing gluten; Soy; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Sweet Treats | Flapjack | Cereals containing gluten; Oat (gluten containing grain); Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Sweet Treats | Cookie Platter VG | Cereals containing gluten; Soy; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Sweet Treats | Coffee & Chocolate Brownie | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Sweet Treats | Blackberry Crumble Traybake | Cereals containing gluten; Eggs; Oat (gluten containing grain); Wheat; Halal; Medium Carbon; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Sweet Treats | Lemon & Poppy Seed Cake | Almonds; Eggs; Tree Nuts; Halal; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Sweet Treats | Fresh Fruit Salad | Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Friday, November 27, 2026 | Lunch | Sweet Treats | Cookie Platter | Cereals containing gluten; Oat (gluten containing grain); Soy; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Hot Fork | Chicken Thigh on Leek & Pea Fricasse | Milk; Halal |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Hot Fork | Steak & Barkham Blue Pie | Barley (gluten containing grain); Celery; Cereals containing gluten; Eggs; Fish; Milk; Sulphur Dioxide and Sulphites; Wheat |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Hot Fork | Garden Cottage Pie | Sulphur Dioxide and Sulphites; Vegan; Vegetarian |
@@ -12231,7 +12232,7 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Lemon, Broccolini & Freekeh Salad | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Mediterranean Veg Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Panzanella Salad | Cereals containing gluten; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sesame seeds; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Classic Potato salad | Mustard; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Fresh Garden Salad | Mustard; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Friday, November 27, 2026 | Hospitality Events | Working Lunch | Nicoise Salad | Eggs; Mustard; Sulphur Dioxide and Sulphites; Halal; Vegetarian |
@@ -12508,7 +12509,7 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Lemon, Broccolini & Freekeh Salad | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Mediterranean Veg Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Panzanella Salad | Cereals containing gluten; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sesame seeds; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Classic Potato salad | Mustard; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Fresh Garden Salad | Mustard; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Saturday, November 28, 2026 | Hospitality Events | Working Lunch | Nicoise Salad | Eggs; Mustard; Sulphur Dioxide and Sulphites; Halal; Vegetarian |
@@ -12777,7 +12778,7 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Lemon, Broccolini & Freekeh Salad | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Mediterranean Veg Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Panzanella Salad | Cereals containing gluten; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sesame seeds; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Classic Potato salad | Mustard; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Fresh Garden Salad | Mustard; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Sunday, November 29, 2026 | Hospitality Events | Working Lunch | Nicoise Salad | Eggs; Mustard; Sulphur Dioxide and Sulphites; Halal; Vegetarian |
@@ -13048,7 +13049,7 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Lemon, Broccolini & Freekeh Salad | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Mediterranean Veg Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Panzanella Salad | Cereals containing gluten; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sesame seeds; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Classic Potato salad | Mustard; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Fresh Garden Salad | Mustard; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Monday, November 30, 2026 | Hospitality Events | Working Lunch | Nicoise Salad | Eggs; Mustard; Sulphur Dioxide and Sulphites; Halal; Vegetarian |
@@ -13328,7 +13329,7 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Lemon, Broccolini & Freekeh Salad | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Mediterranean Veg Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Panzanella Salad | Cereals containing gluten; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sesame seeds; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Classic Potato salad | Mustard; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Fresh Garden Salad | Mustard; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Hospitality Events | Working Lunch | Nicoise Salad | Eggs; Mustard; Sulphur Dioxide and Sulphites; Halal; Vegetarian |
@@ -13377,9 +13378,11 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Christmas | Sweet Treats | Mince Pie | Cereals containing gluten; Eggs; Milk; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegetarian |
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Christmas | Sweet Treats | Mince Pie GA/VG | Almonds; Sulphur Dioxide and Sulphites; Tree Nuts; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Tuesday, December 1, 2026 | Christmas | Sweet Treats | Cream Single | Milk |
+| Reading Hospitality & Events | Wednesday, December 2, 2026 | Lunch | Fruit, Spreads and Toppers | Whole Fruits | Halal; Low Carbon Footprint; Vegan; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Lunch | Sweet Treats | Coffee & Chocolate Brownie | Cereals containing gluten; Eggs; Milk; Soy; Wheat; Halal; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Lunch | Sweet Treats | Blackberry Crumble Traybake | Cereals containing gluten; Eggs; Oat (gluten containing grain); Wheat; Halal; Medium Carbon; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Lunch | Sweet Treats | Lemon & Poppy Seed Cake | Almonds; Eggs; Tree Nuts; Halal; Vegetarian |
+| Reading Hospitality & Events | Wednesday, December 2, 2026 | Lunch | Sweet Treats | Cookie Platter | Cereals containing gluten; Oat (gluten containing grain); Soy; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Hot Fork | Chicken Thigh on Leek & Pea Fricasse | Milk; Halal |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Hot Fork | Steak & Barkham Blue Pie | Barley (gluten containing grain); Celery; Cereals containing gluten; Eggs; Fish; Milk; Sulphur Dioxide and Sulphites; Wheat |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Hot Fork | Garden Cottage Pie | Sulphur Dioxide and Sulphites; Vegan; Vegetarian |
@@ -13600,7 +13603,7 @@ Venues: 17; dishes: 13642
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Lemon, Broccolini & Freekeh Salad | Cereals containing gluten; Wheat; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Mediterranean Veg Salad | Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Panzanella Salad | Cereals containing gluten; Sulphur Dioxide and Sulphites; Wheat; Halal; Vegan; Vegetarian |
-| Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
+| Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Spiced Kohlrabi Salad | Peanuts; Sesame seeds; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Classic Potato salad | Mustard; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Fresh Garden Salad | Mustard; Sulphur Dioxide and Sulphites; Halal; Vegan; Vegetarian |
 | Reading Hospitality & Events | Wednesday, December 2, 2026 | Hospitality Events | Working Lunch | Nicoise Salad | Eggs; Mustard; Sulphur Dioxide and Sulphites; Halal; Vegetarian |
