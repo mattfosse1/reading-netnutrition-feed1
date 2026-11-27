@@ -1,6 +1,6 @@
 {
   "menuCapturedAtUTC": "2026-11-27T13:39:42.362316+00:00",
-  "lastCheckedUTC": "2026-11-27T16:39:17.941951+00:00",
+  "lastCheckedUTC": "2026-11-27T17:32:10.204301+00:00",
   "totalDishEntries": 13541,
   "withRecentLabels": 13541,
   "withIngredientsField": 12732,
@@ -110,8 +110,8 @@
     }
   ],
   "lastBatch": {
-    "attempted": 73,
-    "newLabels": 73,
+    "attempted": 0,
+    "newLabels": 0,
     "errors": []
   },
   "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
