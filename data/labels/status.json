@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-26T19:24:48.248946+00:00",
-  "lastCheckedUTC": "2026-11-27T01:59:29.683599+00:00",
+  "lastCheckedUTC": "2026-11-27T03:38:00.650436+00:00",
   "totalDishEntries": 13645,
-  "withRecentLabels": 13423,
-  "withIngredientsField": 12623,
-  "labelCoveragePercent": 98.37,
+  "withRecentLabels": 13637,
+  "withIngredientsField": 12831,
+  "labelCoveragePercent": 99.94,
   "byVenue": [
     {
       "venue": "Square",
@@ -106,13 +106,22 @@
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
       "total": 1930,
-      "withLabels": 1716
+      "withLabels": 1930
     }
   ],
   "lastBatch": {
-    "attempted": 350,
-    "newLabels": 350,
-    "errors": []
+    "attempted": 222,
+    "newLabels": 214,
+    "errors": [
+      "Street Food Markets / 4936350: RuntimeError: Empty or unrecognised nutrition label",
+      "Street Food Markets / 4936358: RuntimeError: Empty or unrecognised nutrition label",
+      "Street Food Markets / 4936368: RuntimeError: Empty or unrecognised nutrition label",
+      "Street Food Markets / 4936369: RuntimeError: Empty or unrecognised nutrition label",
+      "Street Food Markets / 4936370: RuntimeError: Empty or unrecognised nutrition label",
+      "Street Food Markets / 4936371: RuntimeError: Empty or unrecognised nutrition label",
+      "Street Food Markets / 4936372: RuntimeError: Empty or unrecognised nutrition label",
+      "Street Food Markets / 4936373: RuntimeError: Empty or unrecognised nutrition label"
+    ]
   },
   "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
 }
