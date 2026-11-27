@@ -1,127 +1,118 @@
 {
-  "menuCapturedAtUTC": "2026-11-26T19:24:48.248946+00:00",
-  "lastCheckedUTC": "2026-11-27T03:38:00.650436+00:00",
-  "totalDishEntries": 13645,
-  "withRecentLabels": 13637,
-  "withIngredientsField": 12831,
-  "labelCoveragePercent": 99.94,
+  "menuCapturedAtUTC": "2026-11-27T07:45:21.315046+00:00",
+  "lastCheckedUTC": "2026-11-27T07:59:20.209878+00:00",
+  "totalDishEntries": 13541,
+  "withRecentLabels": 11718,
+  "withIngredientsField": 11015,
+  "labelCoveragePercent": 86.54,
   "byVenue": [
     {
       "venue": "Square",
       "venueId": "11",
-      "total": 445,
-      "withLabels": 445
+      "total": 441,
+      "withLabels": 441
     },
     {
       "venue": "Park Eat Food",
       "venueId": "1",
       "total": 1906,
-      "withLabels": 1906
+      "withLabels": 1816
     },
     {
       "venue": "St Patrick's",
       "venueId": "16",
-      "total": 1557,
-      "withLabels": 1557
+      "total": 1556,
+      "withLabels": 1333
     },
     {
       "venue": "Wantage",
       "venueId": "15",
-      "total": 912,
-      "withLabels": 912
+      "total": 914,
+      "withLabels": 744
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 371
+      "withLabels": 308
     },
     {
       "venue": "Park House",
       "venueId": "12",
-      "total": 276,
-      "withLabels": 276
+      "total": 281,
+      "withLabels": 237
     },
     {
       "venue": "Street Food Markets",
       "venueId": "13",
-      "total": 8,
+      "total": 0,
       "withLabels": 0
     },
     {
       "venue": "Greenlands Bar",
       "venueId": "2",
-      "total": 493,
-      "withLabels": 493
+      "total": 431,
+      "withLabels": 396
     },
     {
       "venue": "Greenlands Heyworth",
       "venueId": "3",
-      "total": 1060,
-      "withLabels": 1060
+      "total": 1018,
+      "withLabels": 890
     },
     {
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2682,
-      "withLabels": 2682
+      "withLabels": 2299
     },
     {
       "venue": "Library Cafe",
       "venueId": "5",
       "total": 570,
-      "withLabels": 570
+      "withLabels": 456
     },
     {
       "venue": "Dol.che Vita",
       "venueId": "6",
       "total": 465,
-      "withLabels": 465
+      "withLabels": 372
     },
     {
       "venue": "HBS Cafe (Whiteknights)",
       "venueId": "7",
       "total": 380,
-      "withLabels": 380
+      "withLabels": 304
     },
     {
       "venue": "Wilderness Kitchen",
       "venueId": "8",
       "total": 130,
-      "withLabels": 130
+      "withLabels": 104
     },
     {
       "venue": "Enterprise",
       "venueId": "9",
       "total": 225,
-      "withLabels": 225
+      "withLabels": 180
     },
     {
       "venue": "Cafe No.1 at Thames Valley Science Park",
       "venueId": "10",
       "total": 235,
-      "withLabels": 235
+      "withLabels": 188
     },
     {
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
-      "total": 1930,
-      "withLabels": 1930
+      "total": 1936,
+      "withLabels": 1650
     }
   ],
   "lastBatch": {
-    "attempted": 222,
-    "newLabels": 214,
-    "errors": [
-      "Street Food Markets / 4936350: RuntimeError: Empty or unrecognised nutrition label",
-      "Street Food Markets / 4936358: RuntimeError: Empty or unrecognised nutrition label",
-      "Street Food Markets / 4936368: RuntimeError: Empty or unrecognised nutrition label",
-      "Street Food Markets / 4936369: RuntimeError: Empty or unrecognised nutrition label",
-      "Street Food Markets / 4936370: RuntimeError: Empty or unrecognised nutrition label",
-      "Street Food Markets / 4936371: RuntimeError: Empty or unrecognised nutrition label",
-      "Street Food Markets / 4936372: RuntimeError: Empty or unrecognised nutrition label",
-      "Street Food Markets / 4936373: RuntimeError: Empty or unrecognised nutrition label"
-    ]
+    "attempted": 350,
+    "newLabels": 350,
+    "errors": []
   },
   "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
 }
