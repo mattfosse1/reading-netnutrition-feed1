@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-27T13:39:42.362316+00:00",
-  "lastCheckedUTC": "2026-11-27T15:34:48.867622+00:00",
+  "lastCheckedUTC": "2026-11-27T16:39:17.941951+00:00",
   "totalDishEntries": 13541,
-  "withRecentLabels": 13468,
-  "withIngredientsField": 12660,
-  "labelCoveragePercent": 99.46,
+  "withRecentLabels": 13541,
+  "withIngredientsField": 12732,
+  "labelCoveragePercent": 100.0,
   "byVenue": [
     {
       "venue": "Square",
@@ -106,12 +106,12 @@
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
       "total": 1936,
-      "withLabels": 1863
+      "withLabels": 1936
     }
   ],
   "lastBatch": {
-    "attempted": 350,
-    "newLabels": 350,
+    "attempted": 73,
+    "newLabels": 73,
     "errors": []
   },
   "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
