@@ -1,12 +1,12 @@
 University of Reading NetNutrition - Public Menu Statistics
 This is static text, not JavaScript or client-side rendering.
 Locations: 17
-Menus: 212
-Dish entries: 13645
+Menus: 210
+Dish entries: 13541
 Unique dishes: 1461
 Unique dishes means distinct published dish names, ignoring case and repeated whitespace; not necessarily distinct recipes.
-Snapshot UTC: 2026-11-26T19:24:48.248946+00:00
-Published dates: Thursday, November 26, 2026 through Wednesday, December 2, 2026
+Snapshot UTC: 2026-11-27T07:45:21.315046+00:00
+Published dates: Friday, November 27, 2026 through Thursday, December 3, 2026
 Extraction errors: 0
 Counts are from the published NetNutrition menu snapshot, not the entire CBORD database.
 Not an authorised food-safety or allergen information source.

@@ -1,24 +1,24 @@
 University of Reading - Public NetNutrition menu overview
 Locations: 17
-Menus: 212
-Dish entries: 13645
+Menus: 210
+Dish entries: 13541
 Unique dishes: 1461
 Unique dishes definition: distinct displayed dish names, case-insensitive, whitespace normalised; not confirmed unique recipes.
-Captured UTC: 2026-11-26T19:24:48.248946+00:00
+Captured UTC: 2026-11-27T07:45:21.315046+00:00
 Status: success
 Errors: 0
-Menu dates: Thursday, November 26, 2026 to Wednesday, December 2, 2026
+Menu dates: Friday, November 27, 2026 to Thursday, December 3, 2026
 
 Location | Menus | Dish entries
-Square | 6 | 445
+Square | 6 | 441
 Park Eat Food | 29 | 1906
-St Patrick's | 21 | 1557
-Wantage | 17 | 912
+St Patrick's | 21 | 1556
+Wantage | 17 | 914
 Dairy Bar | 17 | 371
-Park House | 10 | 276
-Street Food Markets | 1 | 8
-Greenlands Bar | 19 | 493
-Greenlands Heyworth | 22 | 1060
+Park House | 11 | 281
+Street Food Markets | 0 | 0
+Greenlands Bar | 16 | 431
+Greenlands Heyworth | 23 | 1018
 Greenlands Hospitality and Events | 14 | 2682
 Library Cafe | 5 | 570
 Dol.che Vita | 5 | 465
@@ -26,7 +26,7 @@ HBS Cafe (Whiteknights) | 5 | 380
 Wilderness Kitchen | 10 | 130
 Enterprise | 5 | 225
 Cafe No.1 at Thames Valley Science Park | 5 | 235
-Reading Hospitality & Events | 21 | 1930
+Reading Hospitality & Events | 21 | 1936
 
 Counts refer to published menu entries, not all recipes in the CBORD database.
 This is not an approved food-safety or allergen information source.
