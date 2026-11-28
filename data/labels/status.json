@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-28T07:37:52.770087+00:00",
-  "lastCheckedUTC": "2026-11-28T07:53:31.996511+00:00",
+  "lastCheckedUTC": "2026-11-28T09:26:53.021855+00:00",
   "totalDishEntries": 13439,
-  "withRecentLabels": 11628,
-  "withIngredientsField": 10922,
-  "labelCoveragePercent": 86.52,
+  "withRecentLabels": 11978,
+  "withIngredientsField": 11237,
+  "labelCoveragePercent": 89.13,
   "byVenue": [
     {
       "venue": "Square",
@@ -16,19 +16,19 @@
       "venue": "Park Eat Food",
       "venueId": "1",
       "total": 1910,
-      "withLabels": 1816
+      "withLabels": 1910
     },
     {
       "venue": "St Patrick's",
       "venueId": "16",
       "total": 1558,
-      "withLabels": 1337
+      "withLabels": 1558
     },
     {
       "venue": "Wantage",
       "venueId": "15",
       "total": 911,
-      "withLabels": 741
+      "withLabels": 776
     },
     {
       "venue": "Dairy Bar",
