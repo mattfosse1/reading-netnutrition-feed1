@@ -1,46 +1,46 @@
 {
-  "menuCapturedAtUTC": "2026-11-27T19:21:03.284294+00:00",
-  "lastCheckedUTC": "2026-11-28T06:30:30.987575+00:00",
-  "totalDishEntries": 13541,
-  "withRecentLabels": 13541,
-  "withIngredientsField": 12732,
-  "labelCoveragePercent": 100.0,
+  "menuCapturedAtUTC": "2026-11-28T07:37:52.770087+00:00",
+  "lastCheckedUTC": "2026-11-28T07:53:31.996511+00:00",
+  "totalDishEntries": 13439,
+  "withRecentLabels": 11628,
+  "withIngredientsField": 10922,
+  "labelCoveragePercent": 86.52,
   "byVenue": [
     {
       "venue": "Square",
       "venueId": "11",
-      "total": 441,
-      "withLabels": 441
+      "total": 440,
+      "withLabels": 440
     },
     {
       "venue": "Park Eat Food",
       "venueId": "1",
-      "total": 1906,
-      "withLabels": 1906
+      "total": 1910,
+      "withLabels": 1816
     },
     {
       "venue": "St Patrick's",
       "venueId": "16",
-      "total": 1556,
-      "withLabels": 1556
+      "total": 1558,
+      "withLabels": 1337
     },
     {
       "venue": "Wantage",
       "venueId": "15",
-      "total": 914,
-      "withLabels": 914
+      "total": 911,
+      "withLabels": 741
     },
     {
       "venue": "Dairy Bar",
       "venueId": "17",
       "total": 371,
-      "withLabels": 371
+      "withLabels": 308
     },
     {
       "venue": "Park House",
       "venueId": "12",
-      "total": 281,
-      "withLabels": 281
+      "total": 286,
+      "withLabels": 242
     },
     {
       "venue": "Street Food Markets",
@@ -51,67 +51,67 @@
     {
       "venue": "Greenlands Bar",
       "venueId": "2",
-      "total": 431,
-      "withLabels": 431
+      "total": 369,
+      "withLabels": 334
     },
     {
       "venue": "Greenlands Heyworth",
       "venueId": "3",
-      "total": 1018,
-      "withLabels": 1018
+      "total": 979,
+      "withLabels": 851
     },
     {
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
-      "total": 2682,
-      "withLabels": 2682
+      "total": 2681,
+      "withLabels": 2298
     },
     {
       "venue": "Library Cafe",
       "venueId": "5",
       "total": 570,
-      "withLabels": 570
+      "withLabels": 456
     },
     {
       "venue": "Dol.che Vita",
       "venueId": "6",
       "total": 465,
-      "withLabels": 465
+      "withLabels": 372
     },
     {
       "venue": "HBS Cafe (Whiteknights)",
       "venueId": "7",
       "total": 380,
-      "withLabels": 380
+      "withLabels": 304
     },
     {
       "venue": "Wilderness Kitchen",
       "venueId": "8",
       "total": 130,
-      "withLabels": 130
+      "withLabels": 104
     },
     {
       "venue": "Enterprise",
       "venueId": "9",
       "total": 225,
-      "withLabels": 225
+      "withLabels": 180
     },
     {
       "venue": "Cafe No.1 at Thames Valley Science Park",
       "venueId": "10",
       "total": 235,
-      "withLabels": 235
+      "withLabels": 188
     },
     {
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
-      "total": 1936,
-      "withLabels": 1936
+      "total": 1929,
+      "withLabels": 1657
     }
   ],
   "lastBatch": {
-    "attempted": 0,
-    "newLabels": 0,
+    "attempted": 350,
+    "newLabels": 350,
     "errors": []
   },
   "note": "Labels are public CBORD snapshots. Ingredient and allergen fields are not authoritative for food safety; verify with Dining."
