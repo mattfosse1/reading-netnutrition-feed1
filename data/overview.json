@@ -1,42 +1,42 @@
 {
   "source": "https://netmenu.cbord.co.uk/NetNutrition/UniversityofReading",
-  "capturedAtUTC": "2026-11-27T19:21:03.284294+00:00",
+  "capturedAtUTC": "2026-11-28T07:37:52.770087+00:00",
   "status": "success",
   "venuesFound": 17,
-  "menus": 210,
-  "dishEntries": 13541,
-  "uniqueDishes": 1461,
+  "menus": 208,
+  "dishEntries": 13439,
+  "uniqueDishes": 1459,
   "uniqueDishesMethod": "Distinct non-empty displayed dish names, case-insensitive, with whitespace normalised; not confirmed unique recipes.",
   "uniqueRecipesNotMeasured": true,
   "menuDates": [
-    "Friday, November 27, 2026",
     "Saturday, November 28, 2026",
     "Sunday, November 29, 2026",
     "Monday, November 30, 2026",
     "Tuesday, December 1, 2026",
     "Wednesday, December 2, 2026",
-    "Thursday, December 3, 2026"
+    "Thursday, December 3, 2026",
+    "Friday, December 4, 2026"
   ],
   "locations": [
     {
       "name": "Square",
       "menus": 6,
-      "dishEntries": 441
+      "dishEntries": 440
     },
     {
       "name": "Park Eat Food",
       "menus": 29,
-      "dishEntries": 1906
+      "dishEntries": 1910
     },
     {
       "name": "St Patrick's",
       "menus": 21,
-      "dishEntries": 1556
+      "dishEntries": 1558
     },
     {
       "name": "Wantage",
       "menus": 17,
-      "dishEntries": 914
+      "dishEntries": 911
     },
     {
       "name": "Dairy Bar",
@@ -45,8 +45,8 @@
     },
     {
       "name": "Park House",
-      "menus": 11,
-      "dishEntries": 281
+      "menus": 12,
+      "dishEntries": 286
     },
     {
       "name": "Street Food Markets",
@@ -55,18 +55,18 @@
     },
     {
       "name": "Greenlands Bar",
-      "menus": 16,
-      "dishEntries": 431
+      "menus": 13,
+      "dishEntries": 369
     },
     {
       "name": "Greenlands Heyworth",
       "menus": 23,
-      "dishEntries": 1018
+      "dishEntries": 979
     },
     {
       "name": "Greenlands Hospitality and Events",
       "menus": 14,
-      "dishEntries": 2682
+      "dishEntries": 2681
     },
     {
       "name": "Library Cafe",
@@ -101,7 +101,7 @@
     {
       "name": "Reading Hospitality & Events",
       "menus": 21,
-      "dishEntries": 1936
+      "dishEntries": 1929
     }
   ],
   "extractionErrors": [],
