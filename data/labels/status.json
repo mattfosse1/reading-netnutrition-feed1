@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-28T07:37:52.770087+00:00",
-  "lastCheckedUTC": "2026-11-28T11:26:36.454742+00:00",
+  "lastCheckedUTC": "2026-11-28T12:26:04.122806+00:00",
   "totalDishEntries": 13439,
-  "withRecentLabels": 12678,
-  "withIngredientsField": 11914,
-  "labelCoveragePercent": 94.34,
+  "withRecentLabels": 13028,
+  "withIngredientsField": 12238,
+  "labelCoveragePercent": 96.94,
   "byVenue": [
     {
       "venue": "Square",
@@ -64,25 +64,25 @@
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2681,
-      "withLabels": 2593
+      "withLabels": 2681
     },
     {
       "venue": "Library Cafe",
       "venueId": "5",
       "total": 570,
-      "withLabels": 456
+      "withLabels": 570
     },
     {
       "venue": "Dol.che Vita",
       "venueId": "6",
       "total": 465,
-      "withLabels": 372
+      "withLabels": 465
     },
     {
       "venue": "HBS Cafe (Whiteknights)",
       "venueId": "7",
       "total": 380,
-      "withLabels": 304
+      "withLabels": 359
     },
     {
       "venue": "Wilderness Kitchen",
