@@ -1,10 +1,10 @@
 {
   "menuCapturedAtUTC": "2026-11-28T07:37:52.770087+00:00",
-  "lastCheckedUTC": "2026-11-28T10:29:23.227538+00:00",
+  "lastCheckedUTC": "2026-11-28T11:26:36.454742+00:00",
   "totalDishEntries": 13439,
-  "withRecentLabels": 12328,
-  "withIngredientsField": 11566,
-  "labelCoveragePercent": 91.73,
+  "withRecentLabels": 12678,
+  "withIngredientsField": 11914,
+  "labelCoveragePercent": 94.34,
   "byVenue": [
     {
       "venue": "Square",
@@ -58,13 +58,13 @@
       "venue": "Greenlands Heyworth",
       "venueId": "3",
       "total": 979,
-      "withLabels": 924
+      "withLabels": 979
     },
     {
       "venue": "Greenlands Hospitality and Events",
       "venueId": "4",
       "total": 2681,
-      "withLabels": 2298
+      "withLabels": 2593
     },
     {
       "venue": "Library Cafe",
