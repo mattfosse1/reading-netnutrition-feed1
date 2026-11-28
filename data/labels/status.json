@@ -1,10 +1,10 @@
 {
-  "menuCapturedAtUTC": "2026-11-28T07:37:52.770087+00:00",
-  "lastCheckedUTC": "2026-11-28T12:26:04.122806+00:00",
+  "menuCapturedAtUTC": "2026-11-28T13:25:26.144007+00:00",
+  "lastCheckedUTC": "2026-11-28T13:43:09.386260+00:00",
   "totalDishEntries": 13439,
-  "withRecentLabels": 13028,
-  "withIngredientsField": 12238,
-  "labelCoveragePercent": 96.94,
+  "withRecentLabels": 13378,
+  "withIngredientsField": 12567,
+  "labelCoveragePercent": 99.55,
   "byVenue": [
     {
       "venue": "Square",
@@ -82,31 +82,31 @@
       "venue": "HBS Cafe (Whiteknights)",
       "venueId": "7",
       "total": 380,
-      "withLabels": 359
+      "withLabels": 380
     },
     {
       "venue": "Wilderness Kitchen",
       "venueId": "8",
       "total": 130,
-      "withLabels": 104
+      "withLabels": 130
     },
     {
       "venue": "Enterprise",
       "venueId": "9",
       "total": 225,
-      "withLabels": 180
+      "withLabels": 225
     },
     {
       "venue": "Cafe No.1 at Thames Valley Science Park",
       "venueId": "10",
       "total": 235,
-      "withLabels": 188
+      "withLabels": 235
     },
     {
       "venue": "Reading Hospitality & Events",
       "venueId": "14",
       "total": 1929,
-      "withLabels": 1657
+      "withLabels": 1868
     }
   ],
   "lastBatch": {
